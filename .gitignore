@@ -134,3 +134,4 @@ Recordings/
 # Visual Studio Code
 .vscode/
 *.code-workspace
+.vsconfig
