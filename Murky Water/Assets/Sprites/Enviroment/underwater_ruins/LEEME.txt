@@ -1,0 +1,11 @@
+Sprites de ruinas submarinas con fondo transparente.
+
+Unity (sprites individuales):
+1. Descomprime esta carpeta dentro de Assets/Art/RuinasSubmarinas/.
+2. Selecciona los PNG individuales; en Inspector configura Texture Type = Sprite (2D and UI).
+3. Pulsa Apply. Cada PNG ya es un sprite independiente, no hace falta Slice.
+
+Si usas ruinas_submarinas_transparente.png (spritesheet):
+Texture Type = Sprite (2D and UI), Sprite Mode = Multiple, Apply.
+Abre Sprite Editor > Slice > Type: Automatic > Slice > Apply.
+La hoja tiene 30 piezas separadas por transparencia.
