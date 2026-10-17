@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: 584df67103075884ab29b89202ad1bd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5975173548876220380
+    second: 20 Medieval Stone Rock Props_0
+  - first:
+      213: -8314723376566956660
+    second: 20 Medieval Stone Rock Props_1
+  - first:
+      213: 8371096432687047264
+    second: 20 Medieval Stone Rock Props_2
+  - first:
+      213: -8453458099051492905
+    second: 20 Medieval Stone Rock Props_3
+  - first:
+      213: 5714599274257303671
+    second: 20 Medieval Stone Rock Props_4
+  - first:
+      213: 2744841253070952435
+    second: 20 Medieval Stone Rock Props_5
+  - first:
+      213: -5870121795685970676
+    second: 20 Medieval Stone Rock Props_6
+  - first:
+      213: -4423746441803219733
+    second: 20 Medieval Stone Rock Props_7
+  - first:
+      213: 2743378929679124361
+    second: 20 Medieval Stone Rock Props_8
+  - first:
+      213: 8481048042263822774
+    second: 20 Medieval Stone Rock Props_9
+  - first:
+      213: -5061940888180099924
+    second: 20 Medieval Stone Rock Props_10
+  - first:
+      213: 5111697661362565913
+    second: 20 Medieval Stone Rock Props_11
+  - first:
+      213: -8193394321908718762
+    second: 20 Medieval Stone Rock Props_12
+  - first:
+      213: -1864889525715972539
+    second: 20 Medieval Stone Rock Props_13
+  - first:
+      213: -2101741653081726718
+    second: 20 Medieval Stone Rock Props_14
+  - first:
+      213: -943977553743150794
+    second: 20 Medieval Stone Rock Props_15
+  - first:
+      213: 6412942989620841598
+    second: 20 Medieval Stone Rock Props_16
+  - first:
+      213: -2675996967287035112
+    second: 20 Medieval Stone Rock Props_17
+  - first:
+      213: -3580366860394602481
+    second: 20 Medieval Stone Rock Props_18
+  - first:
+      213: -3106612996463189300
+    second: 20 Medieval Stone Rock Props_19
+  - first:
+      213: 1010525440391735012
+    second: 20 Medieval Stone Rock Props_20
+  - first:
+      213: -1689146841909269714
+    second: 20 Medieval Stone Rock Props_21
+  - first:
+      213: -1867516208625081925
+    second: 20 Medieval Stone Rock Props_22
+  - first:
+      213: 8358672470455180012
+    second: 20 Medieval Stone Rock Props_23
+  - first:
+      213: 4068442037434382794
+    second: 20 Medieval Stone Rock Props_24
+  - first:
+      213: 8816765615319264435
+    second: 20 Medieval Stone Rock Props_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 733
+        width: 177
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4283ceba05be31da0800000000000000
+      internalID: -5975173548876220380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_1
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 733
+        width: 286
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d071e642b2c9c80800000000000000
+      internalID: -8314723376566956660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_2
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 983
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062e9d28adb1c2470800000000000000
+      internalID: 8371096432687047264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 735
+        width: 210
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d90362b5a84faa80800000000000000
+      internalID: -8453458099051492905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 730
+        width: 241
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778cfcf33c55e4f40800000000000000
+      internalID: 5714599274257303671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 733
+        width: 233
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d12ea392a71620800000000000000
+      internalID: 2744841253070952435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 731
+        width: 195
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d0cdbf353298ea0800000000000000
+      internalID: -5870121795685970676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 537
+        width: 212
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becbbe79c02bb92c0800000000000000
+      internalID: -4423746441803219733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 487
+        width: 249
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c0dbf990721620800000000000000
+      internalID: 2743378929679124361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 507
+        width: 231
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1482a824cb2b570800000000000000
+      internalID: 8481048042263822774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 507
+        width: 231
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4fffdd49f50c9b0800000000000000
+      internalID: -5061940888180099924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 508
+        width: 232
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913f5b8a0f560f640800000000000000
+      internalID: 5111697661362565913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_12
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 493
+        width: 263
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653ade156473b4e80800000000000000
+      internalID: -8193394321908718762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 255
+        width: 207
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e4a526bd49e16e0800000000000000
+      internalID: -1864889525715972539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 497
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201eb6e1a1d15d2e0800000000000000
+      internalID: -2101741653081726718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 257
+        width: 255
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63182319a6156e2f0800000000000000
+      internalID: -943977553743150794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 263
+        width: 267
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c8e2dfba95ff850800000000000000
+      internalID: 6412942989620841598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_17
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 28
+        width: 205
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b65d0bfe2fcdad0800000000000000
+      internalID: -2675996967287035112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_18
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 253
+        width: 148
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0069906f4bff4ec0800000000000000
+      internalID: -3580366860394602481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_19
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 261
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2233370f713e4d0800000000000000
+      internalID: -3106612996463189300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_20
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 250
+        width: 239
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e66b07b88b160e00800000000000000
+      internalID: 1010525440391735012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 30
+        width: 246
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b668295e1fe88e0800000000000000
+      internalID: -1689146841909269714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 484
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb12e9c17ef3516e0800000000000000
+      internalID: -1867516208625081925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_23
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 145
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea51536358fff370800000000000000
+      internalID: 8358672470455180012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 43
+        width: 253
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9fa8e3a72067830800000000000000
+      internalID: 4068442037434382794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20 Medieval Stone Rock Props_25
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 27
+        width: 243
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcabf82d917b5a70800000000000000
+      internalID: 8816765615319264435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20 Medieval Stone Rock Props_0: -5975173548876220380
+      20 Medieval Stone Rock Props_1: -8314723376566956660
+      20 Medieval Stone Rock Props_10: -5061940888180099924
+      20 Medieval Stone Rock Props_11: 5111697661362565913
+      20 Medieval Stone Rock Props_12: -8193394321908718762
+      20 Medieval Stone Rock Props_13: -1864889525715972539
+      20 Medieval Stone Rock Props_14: -2101741653081726718
+      20 Medieval Stone Rock Props_15: -943977553743150794
+      20 Medieval Stone Rock Props_16: 6412942989620841598
+      20 Medieval Stone Rock Props_17: -2675996967287035112
+      20 Medieval Stone Rock Props_18: -3580366860394602481
+      20 Medieval Stone Rock Props_19: -3106612996463189300
+      20 Medieval Stone Rock Props_2: 8371096432687047264
+      20 Medieval Stone Rock Props_20: 1010525440391735012
+      20 Medieval Stone Rock Props_21: -1689146841909269714
+      20 Medieval Stone Rock Props_22: -1867516208625081925
+      20 Medieval Stone Rock Props_23: 8358672470455180012
+      20 Medieval Stone Rock Props_24: 4068442037434382794
+      20 Medieval Stone Rock Props_25: 8816765615319264435
+      20 Medieval Stone Rock Props_3: -8453458099051492905
+      20 Medieval Stone Rock Props_4: 5714599274257303671
+      20 Medieval Stone Rock Props_5: 2744841253070952435
+      20 Medieval Stone Rock Props_6: -5870121795685970676
+      20 Medieval Stone Rock Props_7: -4423746441803219733
+      20 Medieval Stone Rock Props_8: 2743378929679124361
+      20 Medieval Stone Rock Props_9: 8481048042263822774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
