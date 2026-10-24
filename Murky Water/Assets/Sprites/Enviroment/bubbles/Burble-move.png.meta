@@ -1,0 +1,1333 @@
+fileFormatVersion: 2
+guid: fc79a9bc5dc34064b981d3f5fc358502
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 51232386390939941
+    second: Burble-move (1)_0
+  - first:
+      213: 6849375956168962378
+    second: Burble-move (1)_1
+  - first:
+      213: -4118334018783422430
+    second: Burble-move (1)_2
+  - first:
+      213: 1414164204083951676
+    second: Burble-move (1)_3
+  - first:
+      213: -2756047483705909798
+    second: Burble-move (1)_4
+  - first:
+      213: 4097401706919749838
+    second: Burble-move (1)_5
+  - first:
+      213: -768384813332767332
+    second: Burble-move (1)_6
+  - first:
+      213: -9036178781654973116
+    second: Burble-move (1)_7
+  - first:
+      213: -1481448559409442687
+    second: Burble-move (1)_8
+  - first:
+      213: 8314683481398333202
+    second: Burble-move (1)_9
+  - first:
+      213: 5769059901749677633
+    second: Burble-move (1)_10
+  - first:
+      213: 3035739948805349080
+    second: Burble-move (1)_11
+  - first:
+      213: -2988297337246611329
+    second: Burble-move (1)_12
+  - first:
+      213: -3472198676785164468
+    second: Burble-move (1)_13
+  - first:
+      213: -5805782083333137579
+    second: Burble-move (1)_14
+  - first:
+      213: 5798493573846512991
+    second: Burble-move (1)_15
+  - first:
+      213: -4036203756529145077
+    second: Burble-move (1)_16
+  - first:
+      213: -6166584043461994005
+    second: Burble-move (1)_17
+  - first:
+      213: -5909311996732028342
+    second: Burble-move (1)_18
+  - first:
+      213: -3960370671848638357
+    second: Burble-move (1)_19
+  - first:
+      213: 347678328647656689
+    second: Burble-move (1)_20
+  - first:
+      213: 5430240227946762234
+    second: Burble-move (1)_21
+  - first:
+      213: 8327126812372215036
+    second: Burble-move (1)_22
+  - first:
+      213: -155883810085153364
+    second: Burble-move (1)_23
+  - first:
+      213: 2887087659667935372
+    second: Burble-move (1)_24
+  - first:
+      213: 7113142900041655997
+    second: Burble-move (1)_25
+  - first:
+      213: 6636678701017985651
+    second: Burble-move (1)_26
+  - first:
+      213: 7044686640624373196
+    second: Burble-move (1)_27
+  - first:
+      213: -4924885013184669549
+    second: Burble-move (1)_28
+  - first:
+      213: 7167499518492622053
+    second: Burble-move (1)_29
+  - first:
+      213: -3221147178855942234
+    second: Burble-move (1)_30
+  - first:
+      213: 6024269770036189415
+    second: Burble-move (1)_31
+  - first:
+      213: -1250435768254027637
+    second: Burble-move (1)_32
+  - first:
+      213: 2231431017542817371
+    second: Burble-move (1)_33
+  - first:
+      213: 8812944469193319656
+    second: Burble-move (1)_34
+  - first:
+      213: -742540401457831406
+    second: Burble-move (1)_35
+  - first:
+      213: 9168208665955738243
+    second: Burble-move (1)_36
+  - first:
+      213: -5007013088279450202
+    second: Burble-move (1)_37
+  - first:
+      213: -7633361854518742353
+    second: Burble-move (1)_38
+  - first:
+      213: 5851147858169375753
+    second: Burble-move (1)_39
+  - first:
+      213: 3421089624765534181
+    second: Burble-move (1)_40
+  - first:
+      213: 319124490628203686
+    second: Burble-move (1)_41
+  - first:
+      213: 2038285202544281982
+    second: Burble-move (1)_42
+  - first:
+      213: 4559384486571668836
+    second: Burble-move (1)_43
+  - first:
+      213: 8880909569198708533
+    second: Burble-move (1)_44
+  - first:
+      213: -929159323063185299
+    second: Burble-move (1)_45
+  - first:
+      213: -5188843448847062088
+    second: Burble-move (1)_46
+  - first:
+      213: 4677111523796891563
+    second: Burble-move (1)_47
+  - first:
+      213: -1577485779329978483
+    second: Burble-move (1)_48
+  - first:
+      213: 2029078180382125740
+    second: Burble-move (1)_49
+  - first:
+      213: 6188632809787259260
+    second: Burble-move (1)_50
+  - first:
+      213: 657537945236497439
+    second: Burble-move (1)_51
+  - first:
+      213: 2480728806552935589
+    second: Burble-move (1)_52
+  - first:
+      213: 2169071716152537765
+    second: Burble-move (1)_53
+  - first:
+      213: 1879220430131536965
+    second: Burble-move (1)_54
+  - first:
+      213: -4864331416736955032
+    second: Burble-move (1)_55
+  - first:
+      213: -6224396051634780220
+    second: Burble-move (1)_56
+  - first:
+      213: -432551468086077517
+    second: Burble-move (1)_57
+  - first:
+      213: -7147530144642928583
+    second: Burble-move (1)_58
+  - first:
+      213: -3333848184111554158
+    second: Burble-move (1)_59
+  - first:
+      213: -5463103316617207450
+    second: Burble-move (1)_60
+  - first:
+      213: 761965179038492835
+    second: Burble-move (1)_61
+  - first:
+      213: 9192654680562327167
+    second: Burble-move (1)_62
+  - first:
+      213: -4328652466914796157
+    second: Burble-move (1)_63
+  - first:
+      213: -7806235162155455262
+    second: Burble-move (1)_64
+  - first:
+      213: -2960117993770874687
+    second: Burble-move (1)_65
+  - first:
+      213: -6008161897371469778
+    second: Burble-move (1)_66
+  - first:
+      213: 2711849284324640600
+    second: Burble-move (1)_67
+  - first:
+      213: -7124532048689863191
+    second: Burble-move (1)_68
+  - first:
+      213: 1574905046550230548
+    second: Burble-move (1)_69
+  - first:
+      213: 1719675091800948644
+    second: Burble-move (1)_70
+  - first:
+      213: 4629686830655935235
+    second: Burble-move (1)_71
+  - first:
+      213: 6472730502788853326
+    second: Burble-move (1)_72
+  - first:
+      213: -3403794655968952111
+    second: Burble-move (1)_73
+  - first:
+      213: 8373068066434025360
+    second: Burble-move (1)_74
+  - first:
+      213: 410112846142240861
+    second: Burble-move (1)_75
+  - first:
+      213: -1644979623148554358
+    second: Burble-move (1)_76
+  - first:
+      213: -6296400541996224558
+    second: Burble-move (1)_77
+  - first:
+      213: -5161726949418593452
+    second: Burble-move (1)_78
+  - first:
+      213: -2623005947127370942
+    second: Burble-move (1)_79
+  - first:
+      213: 500563905539462762
+    second: Burble-move (1)_80
+  - first:
+      213: -4759785289641494785
+    second: Burble-move (1)_81
+  - first:
+      213: -6426398759838968297
+    second: Burble-move (1)_82
+  - first:
+      213: 2811537312649681582
+    second: Burble-move (1)_83
+  - first:
+      213: -7500009388052029428
+    second: Burble-move (1)_84
+  - first:
+      213: 4187642462335903265
+    second: Burble-move (1)_85
+  - first:
+      213: -2748852582680375327
+    second: Burble-move (1)_86
+  - first:
+      213: 6780788573097394638
+    second: Burble-move (1)_87
+  - first:
+      213: -4351750690191201749
+    second: Burble-move (1)_88
+  - first:
+      213: 3827799512972713723
+    second: Burble-move (1)_89
+  - first:
+      213: -5901881655801555281
+    second: Burble-move (1)_90
+  - first:
+      213: -6456368667561082787
+    second: Burble-move (1)_91
+  - first:
+      213: 5070432632643658766
+    second: Burble-move (1)_92
+  - first:
+      213: 934795034643344587
+    second: Burble-move (1)_93
+  - first:
+      213: 2287711953039210031
+    second: Burble-move (1)_94
+  - first:
+      213: 6785373441996447541
+    second: Burble-move (1)_95
+  - first:
+      213: 7054494088461120825
+    second: Burble-move (1)_96
+  - first:
+      213: -6411148147344462494
+    second: Burble-move (1)_97
+  - first:
+      213: 2977338427523088407
+    second: Burble-move (1)_98
+  - first:
+      213: -3319675193960668684
+    second: Burble-move (1)_99
+  - first:
+      213: -3300070121775816451
+    second: Burble-move (1)_100
+  - first:
+      213: 3714385253156470795
+    second: Burble-move (1)_101
+  - first:
+      213: -8192388845864447631
+    second: Burble-move (1)_102
+  - first:
+      213: 420910255634940869
+    second: Burble-move (1)_103
+  - first:
+      213: 1379950963960495854
+    second: Burble-move (1)_104
+  - first:
+      213: 3744991338225250887
+    second: Burble-move (1)_105
+  - first:
+      213: 1879674166113365527
+    second: Burble-move (1)_106
+  - first:
+      213: -1516142040869675965
+    second: Burble-move (1)_107
+  - first:
+      213: 5038965694872602039
+    second: Burble-move (1)_108
+  - first:
+      213: 7466270975688586857
+    second: Burble-move (1)_109
+  - first:
+      213: 6828756332673264517
+    second: Burble-move (1)_110
+  - first:
+      213: 44492952682986408
+    second: Burble-move (1)_111
+  - first:
+      213: -8211247297140652020
+    second: Burble-move (1)_112
+  - first:
+      213: -8652749815003310736
+    second: Burble-move (1)_113
+  - first:
+      213: 7361128325840945576
+    second: Burble-move (1)_114
+  - first:
+      213: 1351084030515185056
+    second: Burble-move (1)_115
+  - first:
+      213: 2978623997583684675
+    second: Burble-move (1)_116
+  - first:
+      213: 3258051345483518598
+    second: Burble-move (1)_117
+  - first:
+      213: -7637621117438860667
+    second: Burble-move (1)_118
+  - first:
+      213: -816421664294953721
+    second: Burble-move (1)_119
+  - first:
+      213: 3551769022601318237
+    second: Burble-move (1)_120
+  - first:
+      213: 7046298260749049816
+    second: Burble-move (1)_121
+  - first:
+      213: -8647592724750332979
+    second: Burble-move (1)_122
+  - first:
+      213: -3293234248385890263
+    second: Burble-move (1)_123
+  - first:
+      213: -594963818324375475
+    second: Burble-move (1)_124
+  - first:
+      213: 3174688683461498222
+    second: Burble-move (1)_125
+  - first:
+      213: 7917335989764701967
+    second: Burble-move (1)_126
+  - first:
+      213: -3743109889621804339
+    second: Burble-move (1)_127
+  - first:
+      213: -6023487286509935385
+    second: Burble-move (1)_128
+  - first:
+      213: 5010437457651248178
+    second: Burble-move (1)_129
+  - first:
+      213: 8415515240071111219
+    second: Burble-move (1)_130
+  - first:
+      213: 7754662955670845473
+    second: Burble-move (1)_131
+  - first:
+      213: -2946033610708939941
+    second: Burble-move (1)_132
+  - first:
+      213: -4681973991371822364
+    second: Burble-move (1)_133
+  - first:
+      213: 3806066383761435044
+    second: Burble-move (1)_134
+  - first:
+      213: -7911549792041627083
+    second: Burble-move (1)_135
+  - first:
+      213: 8920352427084528056
+    second: Burble-move (1)_136
+  - first:
+      213: 1006339865612549547
+    second: Burble-move (1)_137
+  - first:
+      213: 1441924268170578744
+    second: Burble-move (1)_138
+  - first:
+      213: 2560109801613606905
+    second: Burble-move (1)_139
+  - first:
+      213: 5194478463199462804
+    second: Burble-move (1)_140
+  - first:
+      213: -4458758490054599501
+    second: Burble-move (1)_141
+  - first:
+      213: 4660298765240689784
+    second: Burble-move (1)_142
+  - first:
+      213: -6269278500088948669
+    second: Burble-move (1)_143
+  - first:
+      213: 221613990420062517
+    second: Burble-move (1)_144
+  - first:
+      213: 1151412642366351791
+    second: Burble-move (1)_145
+  - first:
+      213: 5445856194699616230
+    second: Burble-move (1)_146
+  - first:
+      213: 7813807266323952824
+    second: Burble-move (1)_147
+  - first:
+      213: -1478254988652824431
+    second: Burble-move (1)_148
+  - first:
+      213: -8556704731863171336
+    second: Burble-move (1)_149
+  - first:
+      213: -3621609640967006288
+    second: Burble-move (1)_150
+  - first:
+      213: -3146980831251660075
+    second: Burble-move (1)_151
+  - first:
+      213: -3286317780947583879
+    second: Burble-move (1)_152
+  - first:
+      213: -4997115619175551163
+    second: Burble-move (1)_153
+  - first:
+      213: -5986593415084481017
+    second: Burble-move (1)_154
+  - first:
+      213: -3843056765700044219
+    second: Burble-move (1)_155
+  - first:
+      213: -388963816053121708
+    second: Burble-move (1)_156
+  - first:
+      213: 4702906694788585098
+    second: Burble-move (1)_157
+  - first:
+      213: 1559826321364809710
+    second: Burble-move (1)_158
+  - first:
+      213: 4119467023086484622
+    second: Burble-move (1)_159
+  - first:
+      213: -4190213194856128303
+    second: Burble-move (1)_160
+  - first:
+      213: -8250576072890316939
+    second: Burble-move (1)_161
+  - first:
+      213: -1459100929757566403
+    second: Burble-move (1)_162
+  - first:
+      213: 2645871212520360926
+    second: Burble-move (1)_163
+  - first:
+      213: 6363036370474727388
+    second: Burble-move (1)_164
+  - first:
+      213: 994385939276586899
+    second: Burble-move (1)_165
+  - first:
+      213: 584452572126850601
+    second: Burble-move (1)_166
+  - first:
+      213: -5801103916888583959
+    second: Burble-move (1)_167
+  - first:
+      213: -468251273230891498
+    second: Burble-move (1)_168
+  - first:
+      213: -1430345442784376751
+    second: Burble-move (1)_169
+  - first:
+      213: 7782736880929835528
+    second: Burble-move (1)_170
+  - first:
+      213: 860129001351582859
+    second: Burble-move (1)_171
+  - first:
+      213: 5593262797865918070
+    second: Burble-move (1)_172
+  - first:
+      213: -8863295882666818855
+    second: Burble-move (1)_173
+  - first:
+      213: 6853292746494474768
+    second: Burble-move (1)_174
+  - first:
+      213: 5649433832059710886
+    second: Burble-move (1)_175
+  - first:
+      213: -2637133373069510470
+    second: Burble-move (1)_176
+  - first:
+      213: -4389284536178997610
+    second: Burble-move (1)_177
+  - first:
+      213: -6331114973890785718
+    second: Burble-move (1)_178
+  - first:
+      213: 7044924789215267438
+    second: Burble-move (1)_179
+  - first:
+      213: 2547921016528633999
+    second: Burble-move (1)_180
+  - first:
+      213: -3099515474634045445
+    second: Burble-move (1)_181
+  - first:
+      213: 2366980394791557624
+    second: Burble-move (1)_182
+  - first:
+      213: -5328754174254417625
+    second: Burble-move (1)_183
+  - first:
+      213: 7077812734873560997
+    second: Burble-move (1)_184
+  - first:
+      213: -9086101230640401967
+    second: Burble-move (1)_185
+  - first:
+      213: 5629701856218529110
+    second: Burble-move (1)_186
+  - first:
+      213: -6889560265616035167
+    second: Burble-move (1)_187
+  - first:
+      213: 123265161895541463
+    second: Burble-move (1)_188
+  - first:
+      213: -1137993274669620759
+    second: Burble-move (1)_189
+  - first:
+      213: -4131836032452011341
+    second: Burble-move (1)_190
+  - first:
+      213: 6828436325534315946
+    second: Burble-move (1)_191
+  - first:
+      213: 2274830065345476853
+    second: Burble-move (1)_192
+  - first:
+      213: 6627823617899383642
+    second: Burble-move (1)_193
+  - first:
+      213: -3009444793787514448
+    second: Burble-move (1)_194
+  - first:
+      213: -8375812010980571766
+    second: Burble-move (1)_195
+  - first:
+      213: -135545808004845083
+    second: Burble-move (1)_196
+  - first:
+      213: -7331469602768737958
+    second: Burble-move (1)_197
+  - first:
+      213: -1318449199130753079
+    second: Burble-move (1)_198
+  - first:
+      213: -2373761459059307907
+    second: Burble-move (1)_199
+  - first:
+      213: 8347782004754813143
+    second: Burble-move (1)_200
+  - first:
+      213: -7730016175956543374
+    second: Burble-move (1)_201
+  - first:
+      213: -4984695077113701825
+    second: Burble-move (1)_202
+  - first:
+      213: -4503852071110686355
+    second: Burble-move (1)_203
+  - first:
+      213: -9075724653035955628
+    second: Burble-move (1)_204
+  - first:
+      213: 3482198199823699263
+    second: Burble-move (1)_205
+  - first:
+      213: -3245544058774178141
+    second: Burble-move (1)_206
+  - first:
+      213: 6026105253200264777
+    second: Burble-move (1)_207
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burble-move_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbd79aeb15e50b46877a4534c3487e0
+      internalID: -818617321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab0e4084f0a5849b426e154116fc76
+      internalID: -36172316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e4cd86e39bb74a95a0fec2b8e7927
+      internalID: -1007109800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc6cac287f6a942acd1f2f19052c80
+      internalID: -1784451919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f1e43c7810fa4488004f5e032f957
+      internalID: 88185157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63e9c9b9f4c74b468ada1b15745f251
+      internalID: -1004563215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39672fa87e0373d4190f44a75b66d6b4
+      internalID: 886211448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44935ca931e4a0a4495ca703dbf599f2
+      internalID: -2053175970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8597b141da9b3641a3850e48d719172
+      internalID: 1719250698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c92772f925cc744a753b7cc5559a1e
+      internalID: -33841836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96614a731b12f6043b8ea1449451fdb3
+      internalID: 1739782066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7b5662eaf37f94fbdfbf0e993a9139
+      internalID: -1561788628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a2a27d903dfc4499fc8d206650659
+      internalID: 1311368915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ec1628c16b8c478fb969c7a77d789
+      internalID: -1046761276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d39080734c8fd148bf446aed59d626d
+      internalID: -1407314057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3cd02edeb60824b80f5b4943aa7dfc
+      internalID: 228707130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3e3b7aba5349489b07a446ba37514
+      internalID: -1320131083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef38e2dd68d129045bbe60592afe75a3
+      internalID: -380522893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6fd1da5115ba4e9f44eff5fb98224
+      internalID: 755873457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d93798ee44b3342935dbbf022d1fce
+      internalID: 1899304482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ef3591870d234a98b44e76437644e
+      internalID: -1889850312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7091a922386ac46af51537ed213ed1
+      internalID: -1207050794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38bd2ea9bb6e834885ea33b006865ff
+      internalID: 1965867982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b76df7aa25dc341831235664277f70
+      internalID: 1118952966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burble-move_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1915322b09ba5a48a11dc5128ed730f
+      internalID: -1186958321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1d8ebc8de5641c40b42683161652003
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Burble-move_0: -818617321
+      Burble-move_1: -36172316
+      Burble-move_10: 1739782066
+      Burble-move_11: -1561788628
+      Burble-move_12: 1311368915
+      Burble-move_13: -1046761276
+      Burble-move_14: -1407314057
+      Burble-move_15: 228707130
+      Burble-move_16: -1320131083
+      Burble-move_17: -380522893
+      Burble-move_18: 755873457
+      Burble-move_19: 1899304482
+      Burble-move_2: -1007109800
+      Burble-move_20: -1889850312
+      Burble-move_21: -1207050794
+      Burble-move_22: 1965867982
+      Burble-move_23: 1118952966
+      Burble-move_24: -1186958321
+      Burble-move_3: -1784451919
+      Burble-move_4: 88185157
+      Burble-move_5: -1004563215
+      Burble-move_6: 886211448
+      Burble-move_7: -2053175970
+      Burble-move_8: 1719250698
+      Burble-move_9: -33841836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
