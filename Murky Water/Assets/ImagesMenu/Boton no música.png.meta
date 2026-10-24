@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: d784a05d195db4775802473176e9a1d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1660820889251716084
+    second: "Boton no mu\u0301sica_0"
+  - first:
+      213: -8260814522400288811
+    second: "Boton no mu\u0301sica_1"
+  - first:
+      213: -859231208443101988
+    second: "Boton no mu\u0301sica_2"
+  - first:
+      213: 7844654558264789633
+    second: "Boton no mu\u0301sica_3"
+  - first:
+      213: -8231411611589895255
+    second: "Boton no mu\u0301sica_4"
+  - first:
+      213: -1678320652965529585
+    second: "Boton no mu\u0301sica_5"
+  - first:
+      213: -5846149987074610685
+    second: "Boton no mu\u0301sica_6"
+  - first:
+      213: 1522127161063323945
+    second: "Boton no mu\u0301sica_7"
+  - first:
+      213: -3185940235381226329
+    second: "Boton no mu\u0301sica_8"
+  - first:
+      213: -1165343689247269717
+    second: "Boton no mu\u0301sica_9"
+  - first:
+      213: 9164326059640183808
+    second: "Boton no mu\u0301sica_10"
+  - first:
+      213: -6193062177694038576
+    second: "Boton no mu\u0301sica_11"
+  - first:
+      213: -1176797181576018163
+    second: "Boton no mu\u0301sica_12"
+  - first:
+      213: 2524572157353316056
+    second: "Boton no mu\u0301sica_13"
+  - first:
+      213: 9048381177842902177
+    second: "Boton no mu\u0301sica_14"
+  - first:
+      213: 971891822704130540
+    second: "Boton no mu\u0301sica_15"
+  - first:
+      213: 2422762722821499319
+    second: "Boton no mu\u0301sica_16"
+  - first:
+      213: 5395778198287925326
+    second: "Boton no mu\u0301sica_17"
+  - first:
+      213: -8344707781177899198
+    second: "Boton no mu\u0301sica_18"
+  - first:
+      213: 6787560497520370748
+    second: "Boton no mu\u0301sica_19"
+  - first:
+      213: 3311220842940233511
+    second: "Boton no mu\u0301sica_20"
+  - first:
+      213: 1601830133021448328
+    second: "Boton no mu\u0301sica_21"
+  - first:
+      213: 2661656681438475515
+    second: "Boton no mu\u0301sica_22"
+  - first:
+      213: 795351433754047769
+    second: "Boton no mu\u0301sica_23"
+  - first:
+      213: 2783517684458387374
+    second: "Boton no mu\u0301sica_24"
+  - first:
+      213: -7711008088367586267
+    second: "Boton no mu\u0301sica_25"
+  - first:
+      213: 8797649010911824894
+    second: "Boton no mu\u0301sica_26"
+  - first:
+      213: 6406308972547481625
+    second: "Boton no mu\u0301sica_27"
+  - first:
+      213: 8400411806498022956
+    second: "Boton no mu\u0301sica_28"
+  - first:
+      213: 7475812320413643807
+    second: "Boton no mu\u0301sica_29"
+  - first:
+      213: 630339365998119353
+    second: "Boton no mu\u0301sica_30"
+  - first:
+      213: -5350188175479226738
+    second: "Boton no mu\u0301sica_31"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_0"
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 957
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c046a9c533493f8e0800000000000000
+      internalID: -1660820889251716084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_1"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 991
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df41f4a5f0bb5d80800000000000000
+      internalID: -8260814522400288811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_2"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 946
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb1d0b4c56314f0800000000000000
+      internalID: -859231208443101988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_3"
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 978
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a850b02cfcddc60800000000000000
+      internalID: 7844654558264789633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_4"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 975
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab982b40c624cd80800000000000000
+      internalID: -8231411611589895255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_5"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 947
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b9cc124865b8e0800000000000000
+      internalID: -1678320652965529585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_6"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 967
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a63cc9f8d4edea0800000000000000
+      internalID: -5846149987074610685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_7"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 991
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9293722a69eaf1510800000000000000
+      internalID: 1522127161063323945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_8"
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 945
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a44a7a5c3449c3d0800000000000000
+      internalID: -3185940235381226329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_9"
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 959
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5c21c61ed3dfe0800000000000000
+      internalID: -1165343689247269717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 1509
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c55be1ff93e2f70800000000000000
+      internalID: 9164326059640183808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_11"
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 959
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5c3aaf2c2dd0aa0800000000000000
+      internalID: -6193062177694038576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_12"
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 969
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d070b73c23d2bafe0800000000000000
+      internalID: -1176797181576018163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_13"
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 951
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec2e85005190320800000000000000
+      internalID: 2524572157353316056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_14"
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 959
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a428a9adbe429d70800000000000000
+      internalID: 9048381177842902177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_15"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 947
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9f264a67adc7d00800000000000000
+      internalID: 971891822704130540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_16"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 959
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b965dc2cd16f9120800000000000000
+      internalID: 2422762722821499319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_17"
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 951
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40cfbbeea7a1ea40800000000000000
+      internalID: 5395778198287925326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24704743c74a13c80800000000000000
+      internalID: -8344707781177899198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_19"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 599
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34ec2a7f42423e50800000000000000
+      internalID: 6787560497520370748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_20"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 443
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727725420d1d3fd20800000000000000
+      internalID: 3311220842940233511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_21"
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 439
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8889245e408da3610800000000000000
+      internalID: 1601830133021448328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_22"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 47
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf47f2356aa10f420800000000000000
+      internalID: 2661656681438475515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_23"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915f1804ae7a90b00800000000000000
+      internalID: 795351433754047769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_24"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 41
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7f828169a01a620800000000000000
+      internalID: 2783517684458387374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_25"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524afa09ffefcf490800000000000000
+      internalID: -7711008088367586267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_26"
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 53
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb47f9d927871a70800000000000000
+      internalID: 8797649010911824894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_27"
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 47
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91027168118c7e850800000000000000
+      internalID: 6406308972547481625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_28"
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26ef4dd702449470800000000000000
+      internalID: 8400411806498022956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_29"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 38
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f147eb562bb6fb760800000000000000
+      internalID: 7475812320413643807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_30"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 39
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9434e405a6fb800800000000000000
+      internalID: 630339365998119353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Boton no mu\u0301sica_31"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 15
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eb01f633050c5b0800000000000000
+      internalID: -5350188175479226738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Boton no mu\u0301sica_0": -1660820889251716084
+      "Boton no mu\u0301sica_1": -8260814522400288811
+      "Boton no mu\u0301sica_10": 9164326059640183808
+      "Boton no mu\u0301sica_11": -6193062177694038576
+      "Boton no mu\u0301sica_12": -1176797181576018163
+      "Boton no mu\u0301sica_13": 2524572157353316056
+      "Boton no mu\u0301sica_14": 9048381177842902177
+      "Boton no mu\u0301sica_15": 971891822704130540
+      "Boton no mu\u0301sica_16": 2422762722821499319
+      "Boton no mu\u0301sica_17": 5395778198287925326
+      "Boton no mu\u0301sica_18": -8344707781177899198
+      "Boton no mu\u0301sica_19": 6787560497520370748
+      "Boton no mu\u0301sica_2": -859231208443101988
+      "Boton no mu\u0301sica_20": 3311220842940233511
+      "Boton no mu\u0301sica_21": 1601830133021448328
+      "Boton no mu\u0301sica_22": 2661656681438475515
+      "Boton no mu\u0301sica_23": 795351433754047769
+      "Boton no mu\u0301sica_24": 2783517684458387374
+      "Boton no mu\u0301sica_25": -7711008088367586267
+      "Boton no mu\u0301sica_26": 8797649010911824894
+      "Boton no mu\u0301sica_27": 6406308972547481625
+      "Boton no mu\u0301sica_28": 8400411806498022956
+      "Boton no mu\u0301sica_29": 7475812320413643807
+      "Boton no mu\u0301sica_3": 7844654558264789633
+      "Boton no mu\u0301sica_30": 630339365998119353
+      "Boton no mu\u0301sica_31": -5350188175479226738
+      "Boton no mu\u0301sica_4": -8231411611589895255
+      "Boton no mu\u0301sica_5": -1678320652965529585
+      "Boton no mu\u0301sica_6": -5846149987074610685
+      "Boton no mu\u0301sica_7": 1522127161063323945
+      "Boton no mu\u0301sica_8": -3185940235381226329
+      "Boton no mu\u0301sica_9": -1165343689247269717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
