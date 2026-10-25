@@ -1,0 +1,4630 @@
+fileFormatVersion: 2
+guid: 303f1f595175ee345a589b4e558db4e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -173708289055979741
+    second: Marco pixelado submarino dorado y coral_0
+  - first:
+      213: -9131495722309706156
+    second: Marco pixelado submarino dorado y coral_1
+  - first:
+      213: -4277501483506627847
+    second: Marco pixelado submarino dorado y coral_2
+  - first:
+      213: 4937316702073277709
+    second: Marco pixelado submarino dorado y coral_3
+  - first:
+      213: -418734250537793343
+    second: Marco pixelado submarino dorado y coral_4
+  - first:
+      213: -1045169094445443849
+    second: Marco pixelado submarino dorado y coral_5
+  - first:
+      213: 1677201221390569200
+    second: Marco pixelado submarino dorado y coral_6
+  - first:
+      213: -2093844781582777824
+    second: Marco pixelado submarino dorado y coral_7
+  - first:
+      213: 2082335824298234592
+    second: Marco pixelado submarino dorado y coral_8
+  - first:
+      213: 491582599967910558
+    second: Marco pixelado submarino dorado y coral_9
+  - first:
+      213: 3805231655350256678
+    second: Marco pixelado submarino dorado y coral_10
+  - first:
+      213: 4995715194490072778
+    second: Marco pixelado submarino dorado y coral_11
+  - first:
+      213: 6417601726384901849
+    second: Marco pixelado submarino dorado y coral_12
+  - first:
+      213: 8867407065993094910
+    second: Marco pixelado submarino dorado y coral_13
+  - first:
+      213: 1990354333016177297
+    second: Marco pixelado submarino dorado y coral_14
+  - first:
+      213: 2220650940336192199
+    second: Marco pixelado submarino dorado y coral_15
+  - first:
+      213: -3360083076169915534
+    second: Marco pixelado submarino dorado y coral_16
+  - first:
+      213: -199619178059732293
+    second: Marco pixelado submarino dorado y coral_17
+  - first:
+      213: -5932700224012877135
+    second: Marco pixelado submarino dorado y coral_18
+  - first:
+      213: 2980335625204763812
+    second: Marco pixelado submarino dorado y coral_19
+  - first:
+      213: 1880974832518773582
+    second: Marco pixelado submarino dorado y coral_20
+  - first:
+      213: -398592038390372632
+    second: Marco pixelado submarino dorado y coral_21
+  - first:
+      213: 4081055532586246868
+    second: Marco pixelado submarino dorado y coral_22
+  - first:
+      213: -7826325615381808293
+    second: Marco pixelado submarino dorado y coral_23
+  - first:
+      213: 4084966974544337924
+    second: Marco pixelado submarino dorado y coral_24
+  - first:
+      213: -1940891993879574588
+    second: Marco pixelado submarino dorado y coral_25
+  - first:
+      213: 5760117657646411501
+    second: Marco pixelado submarino dorado y coral_26
+  - first:
+      213: 117615895210168741
+    second: Marco pixelado submarino dorado y coral_27
+  - first:
+      213: 8037474136773888424
+    second: Marco pixelado submarino dorado y coral_28
+  - first:
+      213: 2664769684120623430
+    second: Marco pixelado submarino dorado y coral_29
+  - first:
+      213: 8349840704161480533
+    second: Marco pixelado submarino dorado y coral_30
+  - first:
+      213: -1301672298943930055
+    second: Marco pixelado submarino dorado y coral_31
+  - first:
+      213: -5183112192566755289
+    second: Marco pixelado submarino dorado y coral_32
+  - first:
+      213: -3882782134840466003
+    second: Marco pixelado submarino dorado y coral_33
+  - first:
+      213: -295687571327240619
+    second: Marco pixelado submarino dorado y coral_34
+  - first:
+      213: 1300298810596716773
+    second: Marco pixelado submarino dorado y coral_35
+  - first:
+      213: -2908053603417252508
+    second: Marco pixelado submarino dorado y coral_36
+  - first:
+      213: 4490305627885878906
+    second: Marco pixelado submarino dorado y coral_37
+  - first:
+      213: -6453300415696413435
+    second: Marco pixelado submarino dorado y coral_38
+  - first:
+      213: 4183802854810061701
+    second: Marco pixelado submarino dorado y coral_39
+  - first:
+      213: -4620922663827965282
+    second: Marco pixelado submarino dorado y coral_40
+  - first:
+      213: 785679330912768212
+    second: Marco pixelado submarino dorado y coral_41
+  - first:
+      213: 8384266716207480728
+    second: Marco pixelado submarino dorado y coral_42
+  - first:
+      213: 2358312628968180434
+    second: Marco pixelado submarino dorado y coral_43
+  - first:
+      213: -5370806123962660246
+    second: Marco pixelado submarino dorado y coral_44
+  - first:
+      213: 8027066251855540403
+    second: Marco pixelado submarino dorado y coral_45
+  - first:
+      213: 1959133837164815171
+    second: Marco pixelado submarino dorado y coral_46
+  - first:
+      213: 5719090318571750694
+    second: Marco pixelado submarino dorado y coral_47
+  - first:
+      213: 3045018989222333882
+    second: Marco pixelado submarino dorado y coral_48
+  - first:
+      213: 3278857616655173149
+    second: Marco pixelado submarino dorado y coral_49
+  - first:
+      213: -8660696192888163199
+    second: Marco pixelado submarino dorado y coral_50
+  - first:
+      213: -5097115145777645648
+    second: Marco pixelado submarino dorado y coral_51
+  - first:
+      213: -2072993018853092434
+    second: Marco pixelado submarino dorado y coral_52
+  - first:
+      213: -8052918318815872185
+    second: Marco pixelado submarino dorado y coral_53
+  - first:
+      213: 4384532737257480192
+    second: Marco pixelado submarino dorado y coral_54
+  - first:
+      213: -904065089776527888
+    second: Marco pixelado submarino dorado y coral_55
+  - first:
+      213: -5374190496749551948
+    second: Marco pixelado submarino dorado y coral_56
+  - first:
+      213: 5692217702016779371
+    second: Marco pixelado submarino dorado y coral_57
+  - first:
+      213: -9010050899034056664
+    second: Marco pixelado submarino dorado y coral_58
+  - first:
+      213: -3663808948090840748
+    second: Marco pixelado submarino dorado y coral_59
+  - first:
+      213: -2991025010502132370
+    second: Marco pixelado submarino dorado y coral_60
+  - first:
+      213: -2401596828409299965
+    second: Marco pixelado submarino dorado y coral_61
+  - first:
+      213: 2942041984090246654
+    second: Marco pixelado submarino dorado y coral_62
+  - first:
+      213: 3204723087880194589
+    second: Marco pixelado submarino dorado y coral_63
+  - first:
+      213: 5330407082412229433
+    second: Marco pixelado submarino dorado y coral_64
+  - first:
+      213: -4357539807981961413
+    second: Marco pixelado submarino dorado y coral_65
+  - first:
+      213: -5987260503470827281
+    second: Marco pixelado submarino dorado y coral_66
+  - first:
+      213: 3277644604917029357
+    second: Marco pixelado submarino dorado y coral_67
+  - first:
+      213: 1886321657909617807
+    second: Marco pixelado submarino dorado y coral_68
+  - first:
+      213: -5033226550106822275
+    second: Marco pixelado submarino dorado y coral_69
+  - first:
+      213: 4810847007228379803
+    second: Marco pixelado submarino dorado y coral_70
+  - first:
+      213: -1675939453219976714
+    second: Marco pixelado submarino dorado y coral_71
+  - first:
+      213: -8339573087960997561
+    second: Marco pixelado submarino dorado y coral_72
+  - first:
+      213: 8546669084489748829
+    second: Marco pixelado submarino dorado y coral_73
+  - first:
+      213: 5420797855256335351
+    second: Marco pixelado submarino dorado y coral_74
+  - first:
+      213: -5708339924331009903
+    second: Marco pixelado submarino dorado y coral_75
+  - first:
+      213: 4834313317508600826
+    second: Marco pixelado submarino dorado y coral_76
+  - first:
+      213: -1182928719395916803
+    second: Marco pixelado submarino dorado y coral_77
+  - first:
+      213: 750054277226094639
+    second: Marco pixelado submarino dorado y coral_78
+  - first:
+      213: 2578466101169695476
+    second: Marco pixelado submarino dorado y coral_79
+  - first:
+      213: 1410059811700819824
+    second: Marco pixelado submarino dorado y coral_80
+  - first:
+      213: -5628275049475256323
+    second: Marco pixelado submarino dorado y coral_81
+  - first:
+      213: -5061675127555666744
+    second: Marco pixelado submarino dorado y coral_82
+  - first:
+      213: -2737855269050611079
+    second: Marco pixelado submarino dorado y coral_83
+  - first:
+      213: -1430062201999857526
+    second: Marco pixelado submarino dorado y coral_84
+  - first:
+      213: -5389611000207001135
+    second: Marco pixelado submarino dorado y coral_85
+  - first:
+      213: 7570046458382660045
+    second: Marco pixelado submarino dorado y coral_86
+  - first:
+      213: -5016755541563362260
+    second: Marco pixelado submarino dorado y coral_87
+  - first:
+      213: 2887951612820510452
+    second: Marco pixelado submarino dorado y coral_88
+  - first:
+      213: -3586223420332380926
+    second: Marco pixelado submarino dorado y coral_89
+  - first:
+      213: -4224641600858214588
+    second: Marco pixelado submarino dorado y coral_90
+  - first:
+      213: -9052302847964717138
+    second: Marco pixelado submarino dorado y coral_91
+  - first:
+      213: -5544197034926252485
+    second: Marco pixelado submarino dorado y coral_92
+  - first:
+      213: -8871540990759566983
+    second: Marco pixelado submarino dorado y coral_93
+  - first:
+      213: 8547404541122788660
+    second: Marco pixelado submarino dorado y coral_94
+  - first:
+      213: -5456572511833532189
+    second: Marco pixelado submarino dorado y coral_95
+  - first:
+      213: -3003228519494143484
+    second: Marco pixelado submarino dorado y coral_96
+  - first:
+      213: 8801535511892444389
+    second: Marco pixelado submarino dorado y coral_97
+  - first:
+      213: 2921926617819852717
+    second: Marco pixelado submarino dorado y coral_98
+  - first:
+      213: 5414259317985220474
+    second: Marco pixelado submarino dorado y coral_99
+  - first:
+      213: 2252165228939231766
+    second: Marco pixelado submarino dorado y coral_100
+  - first:
+      213: -8916422846519074854
+    second: Marco pixelado submarino dorado y coral_101
+  - first:
+      213: 4826926703721973560
+    second: Marco pixelado submarino dorado y coral_102
+  - first:
+      213: 5287826549953177303
+    second: Marco pixelado submarino dorado y coral_103
+  - first:
+      213: -6244051776453948718
+    second: Marco pixelado submarino dorado y coral_104
+  - first:
+      213: -7262327533555453544
+    second: Marco pixelado submarino dorado y coral_105
+  - first:
+      213: -1509922869804092419
+    second: Marco pixelado submarino dorado y coral_106
+  - first:
+      213: 5339765116597943681
+    second: Marco pixelado submarino dorado y coral_107
+  - first:
+      213: 2273195456665526384
+    second: Marco pixelado submarino dorado y coral_108
+  - first:
+      213: 8801911865102012769
+    second: Marco pixelado submarino dorado y coral_109
+  - first:
+      213: 1346003946015749671
+    second: Marco pixelado submarino dorado y coral_110
+  - first:
+      213: -4114446326923217685
+    second: Marco pixelado submarino dorado y coral_111
+  - first:
+      213: -3539476392092815744
+    second: Marco pixelado submarino dorado y coral_112
+  - first:
+      213: 3228308728533616269
+    second: Marco pixelado submarino dorado y coral_113
+  - first:
+      213: 1476898947792615979
+    second: Marco pixelado submarino dorado y coral_114
+  - first:
+      213: 4057052241077755271
+    second: Marco pixelado submarino dorado y coral_115
+  - first:
+      213: -5854708463938071339
+    second: Marco pixelado submarino dorado y coral_116
+  - first:
+      213: 2288762346106779904
+    second: Marco pixelado submarino dorado y coral_117
+  - first:
+      213: 4953855207639580183
+    second: Marco pixelado submarino dorado y coral_118
+  - first:
+      213: 6795779465358637034
+    second: Marco pixelado submarino dorado y coral_119
+  - first:
+      213: 6703046382175562948
+    second: Marco pixelado submarino dorado y coral_120
+  - first:
+      213: 670904280794070481
+    second: Marco pixelado submarino dorado y coral_121
+  - first:
+      213: -5637277143935331233
+    second: Marco pixelado submarino dorado y coral_122
+  - first:
+      213: -2142633667011864500
+    second: Marco pixelado submarino dorado y coral_123
+  - first:
+      213: -4756295798391069612
+    second: Marco pixelado submarino dorado y coral_124
+  - first:
+      213: 5623406060321097011
+    second: Marco pixelado submarino dorado y coral_125
+  - first:
+      213: -5712652252335805162
+    second: Marco pixelado submarino dorado y coral_126
+  - first:
+      213: 6135022697255414296
+    second: Marco pixelado submarino dorado y coral_127
+  - first:
+      213: 3570800606466272712
+    second: Marco pixelado submarino dorado y coral_128
+  - first:
+      213: -6097722194517100833
+    second: Marco pixelado submarino dorado y coral_129
+  - first:
+      213: 9108730362957547860
+    second: Marco pixelado submarino dorado y coral_130
+  - first:
+      213: 1919856850858189650
+    second: Marco pixelado submarino dorado y coral_131
+  - first:
+      213: -9149846797531138996
+    second: Marco pixelado submarino dorado y coral_132
+  - first:
+      213: -8801722332134426716
+    second: Marco pixelado submarino dorado y coral_133
+  - first:
+      213: 8914361528275174073
+    second: Marco pixelado submarino dorado y coral_134
+  - first:
+      213: -8449030373903984629
+    second: Marco pixelado submarino dorado y coral_135
+  - first:
+      213: -6314725784476176985
+    second: Marco pixelado submarino dorado y coral_136
+  - first:
+      213: 3377283389417184239
+    second: Marco pixelado submarino dorado y coral_137
+  - first:
+      213: -4353319106583429959
+    second: Marco pixelado submarino dorado y coral_138
+  - first:
+      213: -4734535596910127756
+    second: Marco pixelado submarino dorado y coral_139
+  - first:
+      213: 2138101919339846418
+    second: Marco pixelado submarino dorado y coral_140
+  - first:
+      213: -6175325255196082967
+    second: Marco pixelado submarino dorado y coral_141
+  - first:
+      213: -3362715877682989396
+    second: Marco pixelado submarino dorado y coral_142
+  - first:
+      213: 3935552373437144187
+    second: Marco pixelado submarino dorado y coral_143
+  - first:
+      213: -4134354033375472131
+    second: Marco pixelado submarino dorado y coral_144
+  - first:
+      213: -7751309740686747133
+    second: Marco pixelado submarino dorado y coral_145
+  - first:
+      213: 2759318975422081685
+    second: Marco pixelado submarino dorado y coral_146
+  - first:
+      213: -8508543773187864709
+    second: Marco pixelado submarino dorado y coral_147
+  - first:
+      213: 497482395639791953
+    second: Marco pixelado submarino dorado y coral_148
+  - first:
+      213: -8640065020897744982
+    second: Marco pixelado submarino dorado y coral_149
+  - first:
+      213: -4755926532976616054
+    second: Marco pixelado submarino dorado y coral_150
+  - first:
+      213: 6200251222827298055
+    second: Marco pixelado submarino dorado y coral_151
+  - first:
+      213: 5622666052308790062
+    second: Marco pixelado submarino dorado y coral_152
+  - first:
+      213: -2517027504031488350
+    second: Marco pixelado submarino dorado y coral_153
+  - first:
+      213: -4305983279441163544
+    second: Marco pixelado submarino dorado y coral_154
+  - first:
+      213: -7242408372922825638
+    second: Marco pixelado submarino dorado y coral_155
+  - first:
+      213: -3167441238824278783
+    second: Marco pixelado submarino dorado y coral_156
+  - first:
+      213: -5773092159186845685
+    second: Marco pixelado submarino dorado y coral_157
+  - first:
+      213: -3716431762582143065
+    second: Marco pixelado submarino dorado y coral_158
+  - first:
+      213: -8617011475750663293
+    second: Marco pixelado submarino dorado y coral_159
+  - first:
+      213: -4153720577932721033
+    second: Marco pixelado submarino dorado y coral_160
+  - first:
+      213: 6162397248483259480
+    second: Marco pixelado submarino dorado y coral_161
+  - first:
+      213: 7626582371512512896
+    second: Marco pixelado submarino dorado y coral_162
+  - first:
+      213: -8335154026736141780
+    second: Marco pixelado submarino dorado y coral_163
+  - first:
+      213: 554353179469361118
+    second: Marco pixelado submarino dorado y coral_164
+  - first:
+      213: -5159031196168685650
+    second: Marco pixelado submarino dorado y coral_165
+  - first:
+      213: -6561134758974418863
+    second: Marco pixelado submarino dorado y coral_166
+  - first:
+      213: -4394135581145666392
+    second: Marco pixelado submarino dorado y coral_167
+  - first:
+      213: 5278520101614603823
+    second: Marco pixelado submarino dorado y coral_168
+  - first:
+      213: -1016730718796993349
+    second: Marco pixelado submarino dorado y coral_169
+  - first:
+      213: -597919368117335738
+    second: Marco pixelado submarino dorado y coral_170
+  - first:
+      213: 3946830201594897670
+    second: Marco pixelado submarino dorado y coral_171
+  - first:
+      213: 3532776378725003392
+    second: Marco pixelado submarino dorado y coral_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2170
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32707404b3dd69df0800000000000000
+      internalID: -173708289055979741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 707
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e1bb37509664180800000000000000
+      internalID: -9131495722309706156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 703
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa816d501343a4c0800000000000000
+      internalID: -4277501483506627847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 699
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d4eaaa16fd48440800000000000000
+      internalID: 4937316702073277709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 713
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c76dea6b503af0800000000000000
+      internalID: -418734250537793343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_5
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 665
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4dc530f30de71f0800000000000000
+      internalID: -1045169094445443849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_6
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 612
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe06d9ef9d964710800000000000000
+      internalID: 1677201221390569200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 690
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02204fac34b21f2e0800000000000000
+      internalID: -2093844781582777824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 699
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2dd564661f5ec10800000000000000
+      internalID: 2082335824298234592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_9
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 687
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aa9d825c372d600800000000000000
+      internalID: 491582599967910558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_10
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 691
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62449319706eec430800000000000000
+      internalID: 3805231655350256678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 661
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace2a9e3088545540800000000000000
+      internalID: 4995715194490072778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_12
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 683
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de0b1ba4c6ef0950800000000000000
+      internalID: 6417601726384901849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_13
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 676
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6ae47bebb5f0b70800000000000000
+      internalID: 8867407065993094910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_14
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 691
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ab69478b82f9b10800000000000000
+      internalID: 1990354333016177297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 673
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca30e4c34651de10800000000000000
+      internalID: 2220650940336192199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_16
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 683
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2732715ae369e51d0800000000000000
+      internalID: -3360083076169915534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 677
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbae4694a6fca3df0800000000000000
+      internalID: -199619178059732293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_18
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 678
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b205dc3490daada0800000000000000
+      internalID: -5932700224012877135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_19
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 676
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac85cbe5774c5920800000000000000
+      internalID: 2980335625204763812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 652
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b3bb3f4a09a1a10800000000000000
+      internalID: 1880974832518773582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 655
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6617527aae77af0800000000000000
+      internalID: -398592038390372632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 642
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d222707262d2a830800000000000000
+      internalID: 4081055532586246868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_23
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 659
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b70a6815e436390800000000000000
+      internalID: -7826325615381808293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_24
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 661
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cdaecf1d7b0b830800000000000000
+      internalID: 4084966974544337924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_25
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 661
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7886dc3019015e0800000000000000
+      internalID: -1940891993879574588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_26
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 657
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee2870cd7c00ff40800000000000000
+      internalID: 5760117657646411501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_27
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 659
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a111f5980bd1a100800000000000000
+      internalID: 117615895210168741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_28
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 648
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a90ccd9428da8f60800000000000000
+      internalID: 8037474136773888424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_29
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 650
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6495d3eb8e92bf420800000000000000
+      internalID: 2664769684120623430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_30
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 644
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f74ae81e790e370800000000000000
+      internalID: 8349840704161480533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 647
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9312b7fc0f78fede0800000000000000
+      internalID: -1301672298943930055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 642
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72000131ce2e118b0800000000000000
+      internalID: -5183112192566755289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_33
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 642
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5e99068369d1ac0800000000000000
+      internalID: -3882782134840466003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_34
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 626
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556ba8278b185ebf0800000000000000
+      internalID: -295687571327240619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 634
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0fa7301e69b0210800000000000000
+      internalID: 1300298810596716773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_36
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 642
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d158cb7a484a7d0800000000000000
+      internalID: -2908053603417252508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_37
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 623
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e331b8d25c05e30800000000000000
+      internalID: 4490305627885878906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_38
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 640
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd88586754176a0800000000000000
+      internalID: -6453300415696413435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_39
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 639
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b083b978adf0a30800000000000000
+      internalID: 4183802854810061701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_40
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 628
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a7bf7e15f2fdfb0800000000000000
+      internalID: -4620922663827965282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_41
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 630
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d01c62503b47ea00800000000000000
+      internalID: 785679330912768212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_42
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 626
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f7da91826ea5470800000000000000
+      internalID: 8384266716207480728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_43
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 634
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da47f657d86ab020800000000000000
+      internalID: 2358312628968180434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_44
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 632
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a86b739401775b0800000000000000
+      internalID: -5370806123962660246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 618
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b030621a3ed56f60800000000000000
+      internalID: 8027066251855540403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_46
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 614
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34328af48dd303b10800000000000000
+      internalID: 1959133837164815171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_47
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 625
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62548dcf75a4e5f40800000000000000
+      internalID: 5719090318571750694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_48
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 612
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd8ae233a4124a20800000000000000
+      internalID: 3045018989222333882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_49
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 600
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16c0d551a7d08d20800000000000000
+      internalID: 3278857616655173149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_50
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 95
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184b25be2b60fc780800000000000000
+      internalID: -8660696192888163199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_51
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 140
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7f8a4d7c86349b0800000000000000
+      internalID: -5097115145777645648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_52
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 126
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3956125df3b33e0800000000000000
+      internalID: -2072993018853092434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_53
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 128
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7eb984794e3090800000000000000
+      internalID: -8052918318815872185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_54
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 130
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ad465b4df8dc30800000000000000
+      internalID: 4384532737257480192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_55
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 118
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5d90e379d1473f0800000000000000
+      internalID: -904065089776527888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_56
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 95
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be76f5873a0b65b0800000000000000
+      internalID: -5374190496749551948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_57
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 112
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6486e067d1defe40800000000000000
+      internalID: 5692217702016779371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_58
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828d2e2d17ed5f280800000000000000
+      internalID: -9010050899034056664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_59
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 118
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459d5246c29872dc0800000000000000
+      internalID: -3663808948090840748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 90
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d16be999ebd76d0800000000000000
+      internalID: -2991025010502132370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c75f4a860dbaed0800000000000000
+      internalID: -2401596828409299965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_62
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0cffc89b34d820800000000000000
+      internalID: 2942041984090246654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_63
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 47
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a87984ba6797c20800000000000000
+      internalID: 3204723087880194589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_64
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 110
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933486feff869f940800000000000000
+      internalID: 5330407082412229433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_65
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 43
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f7c92c1a8e683c0800000000000000
+      internalID: -4357539807981961413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_66
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 112
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe815e04b4af8eca0800000000000000
+      internalID: -5987260503470827281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_67
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 43
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91e0807688c7d20800000000000000
+      internalID: 3277644604917029357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_68
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 112
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8424dfbd8f8d2a10800000000000000
+      internalID: 1886321657909617807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_69
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 114
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7961deae13662ab0800000000000000
+      internalID: -5033226550106822275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_70
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 101
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9249963ddf83c240800000000000000
+      internalID: 4810847007228379803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_71
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 104
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9c2c162fdddb8e0800000000000000
+      internalID: -1675939453219976714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_72
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 79
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7416da12672e34c80800000000000000
+      internalID: -8339573087960997561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_73
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 112
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5113d9004edb9670800000000000000
+      internalID: 8546669084489748829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 92
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d0c1cdea8a3b40800000000000000
+      internalID: 5420797855256335351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_75
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 58
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198e1193517e7c0b0800000000000000
+      internalID: -5708339924331009903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_76
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35a07595ee61340800000000000000
+      internalID: 4834313317508600826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_77
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 95
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df37ccdd894659fe0800000000000000
+      internalID: -1182928719395916803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_78
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 97
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20e254246ab86a00800000000000000
+      internalID: 750054277226094639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_79
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 95
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa2b99f14d88c320800000000000000
+      internalID: 2578466101169695476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_80
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 61
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0774b7c8de9819310800000000000000
+      internalID: 1410059811700819824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_81
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 85
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff45d199a954e1b0800000000000000
+      internalID: -5628275049475256323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_82
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 64
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc4d951a4151c9b0800000000000000
+      internalID: -5061675127555666744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_83
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 77
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a8ec9732f210ad0800000000000000
+      internalID: -2737855269050611079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_84
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 98
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88e51b0106672ce0800000000000000
+      internalID: -1430062201999857526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_85
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 71
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9bf17c9514435b0800000000000000
+      internalID: -5389611000207001135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_86
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 45
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc13a1565253e0960800000000000000
+      internalID: 7570046458382660045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_87
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24b4243a67e06ab0800000000000000
+      internalID: -5016755541563362260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_88
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 92
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6deaad0b0141820800000000000000
+      internalID: 2887951612820510452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20de6e1cccc2b3ec0800000000000000
+      internalID: -3586223420332380926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_90
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 76
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f228dd8de0f55c0800000000000000
+      internalID: -4224641600858214588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 75
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf5ecb5582cf5280800000000000000
+      internalID: -9052302847964717138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_92
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e5270db2e0f03b0800000000000000
+      internalID: -5544197034926252485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_93
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 79
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971857be874f1e480800000000000000
+      internalID: -8871540990759566983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_94
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 83
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d3f21e42b7e9670800000000000000
+      internalID: 8547404541122788660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_95
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8500de53c5644b0800000000000000
+      internalID: -5456572511833532189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_96
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ba34c2936256d0800000000000000
+      internalID: -3003228519494143484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_97
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4c5506ae5552a70800000000000000
+      internalID: 8801535511892444389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_98
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 79
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf29e227c4cc8820800000000000000
+      internalID: 2921926617819852717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_99
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 79
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a779b5ae920532b40800000000000000
+      internalID: 5414259317985220474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_100
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 47
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612c86ed75c414f10800000000000000
+      internalID: 2252165228939231766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_101
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 83
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9d0e89a0824480800000000000000
+      internalID: -8916422846519074854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_102
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 73
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837023c4340bcf240800000000000000
+      internalID: 4826926703721973560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_103
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 71
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6a6d72b32226940800000000000000
+      internalID: 5287826549953177303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_104
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 74
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dac051edfba859a0800000000000000
+      internalID: -6244051776453948718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_105
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89173efe597073b90800000000000000
+      internalID: -7262327533555453544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_106
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 49
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3b61b562dab0be0800000000000000
+      internalID: -1509922869804092419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_107
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 47
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18db7de0518aa1a40800000000000000
+      internalID: 5339765116597943681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_108
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 18
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a49359330c8f10800000000000000
+      internalID: 2273195456665526384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_109
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 79
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16193bfe43ca62a70800000000000000
+      internalID: 8801911865102012769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_110
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 67
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726fa8c1577fda210800000000000000
+      internalID: 1346003946015749671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_111
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 73
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b45c6ddc86e6c0800000000000000
+      internalID: -4114446326923217685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_112
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 80
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e2d6e69f041eec0800000000000000
+      internalID: -3539476392092815744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_113
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d860a8d2fa14dcc20800000000000000
+      internalID: 3228308728533616269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_114
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab350a4cffe7410800000000000000
+      internalID: 1476898947792615979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_115
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 51
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d54a0a48b8d4830800000000000000
+      internalID: 4057052241077755271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_116
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 61
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d49f7feba5efbea0800000000000000
+      internalID: -5854708463938071339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_117
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 23
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009fbf63a3153cf10800000000000000
+      internalID: 2288762346106779904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_118
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 63
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e73109011afb440800000000000000
+      internalID: 4953855207639580183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_119
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7789c0b657f4e50800000000000000
+      internalID: 6795779465358637034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_120
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 61
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccaa8a9b21060d50800000000000000
+      internalID: 6703046382175562948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_121
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 57
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf40783e78f4900800000000000000
+      internalID: 670904280794070481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_122
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f545e4f1e4e54c1b0800000000000000
+      internalID: -5637277143935331233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_123
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 65
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4817f13806d342e0800000000000000
+      internalID: -2142633667011864500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_124
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454a73adb2e3efdb0800000000000000
+      internalID: -4756295798391069612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_125
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335c73d840a5a0e40800000000000000
+      internalID: 5623406060321097011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_126
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 63
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d603e1b0598b0b0800000000000000
+      internalID: -5712652252335805162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_127
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 45
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a2ede63aaf32550800000000000000
+      internalID: 6135022697255414296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_128
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 45
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdeb209b380e8130800000000000000
+      internalID: 3570800606466272712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_129
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 59
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6fac0a8f9806ba0800000000000000
+      internalID: -6097722194517100833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_130
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45946e64106b86e70800000000000000
+      internalID: 9108730362957547860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_131
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253a00f42a3b4aa10800000000000000
+      internalID: 1919856850858189650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_132
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 15
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4439ebc0d6350180800000000000000
+      internalID: -9149846797531138996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_133
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 52
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a731852c200ad580800000000000000
+      internalID: -8801722332134426716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_134
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 53
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b20044649c26bb70800000000000000
+      internalID: 8914361528275174073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_135
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 47
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0897fac3a30fba80800000000000000
+      internalID: -8449030373903984629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_136
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 47
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad2c4a1b569d58a0800000000000000
+      internalID: -6314725784476176985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_137
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 31
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febd90c59558ede20800000000000000
+      internalID: 3377283389417184239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_138
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 53
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc7c226657e593c0800000000000000
+      internalID: -4353319106583429959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_139
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 63
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475dab195fc8b4eb0800000000000000
+      internalID: -4734535596910127756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_140
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 45
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b15d31e501cad10800000000000000
+      internalID: 2138101919339846418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_141
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 15
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecf98f0666dc4aa0800000000000000
+      internalID: -6175325255196082967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_142
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6b326c9bb3551d0800000000000000
+      internalID: -3362715877682989396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_143
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c9aad3804ed9630800000000000000
+      internalID: 3935552373437144187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_144
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 13
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df593f059e2df96c0800000000000000
+      internalID: -4134354033375472131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_145
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 33
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a575aebd0dd6490800000000000000
+      internalID: -7751309740686747133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_146
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 49
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a27081df11b4620800000000000000
+      internalID: 2759318975422081685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_147
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 51
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77864bb4849be980800000000000000
+      internalID: -8508543773187864709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_148
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 47
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151ce126a9967e600800000000000000
+      internalID: 497482395639791953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_149
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 37
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7ac19f3a2581880800000000000000
+      internalID: -8640065020897744982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_150
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 37
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd218240e8ffdb0800000000000000
+      internalID: -4755926532976616054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_151
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 23
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d6dc603a7bb0650800000000000000
+      internalID: 6200251222827298055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_152
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 31
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b63820cf8b70e40800000000000000
+      internalID: 5622666052308790062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_153
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a05422d8b11dd0800000000000000
+      internalID: -2517027504031488350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_154
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea432c75031e34c0800000000000000
+      internalID: -4305983279441163544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_155
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54ce9de4fbcd7b90800000000000000
+      internalID: -7242408372922825638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_156
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 7
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105a4f0a9fcfa04d0800000000000000
+      internalID: -3167441238824278783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_157
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 34
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004314b44bd1efa0800000000000000
+      internalID: -5773092159186845685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_158
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 45
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afff4f90059c6cc0800000000000000
+      internalID: -3716431762582143065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_159
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 31
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bca6ab7b93a6880800000000000000
+      internalID: -8617011475750663293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_160
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 46
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774071844250b56c0800000000000000
+      internalID: -4153720577932721033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_161
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85470b0d5ab358550800000000000000
+      internalID: 6162397248483259480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_162
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 27
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0817240724017d960800000000000000
+      internalID: 7626582371512512896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_163
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ab9300395935c80800000000000000
+      internalID: -8335154026736141780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_164
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 34
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf2166974571b700800000000000000
+      internalID: 554353179469361118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_165
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 29
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7f437f5707768b0800000000000000
+      internalID: -5159031196168685650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1509cd7f2ba22f4a0800000000000000
+      internalID: -6561134758974418863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_167
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 31
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac68e658f4e403c0800000000000000
+      internalID: -4394135581145666392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_168
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4f7cc012114940800000000000000
+      internalID: 5278520101614603823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_169
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbca0e15cc8d3e1f0800000000000000
+      internalID: -1016730718796993349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_170
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494a0ba083c3b7f0800000000000000
+      internalID: -597919368117335738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_171
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 37
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605e8da3825f5c630800000000000000
+      internalID: 3946830201594897670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco pixelado submarino dorado y coral_172
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0807bc42661f60130800000000000000
+      internalID: 3532776378725003392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Marco pixelado submarino dorado y coral_0: -173708289055979741
+      Marco pixelado submarino dorado y coral_1: -9131495722309706156
+      Marco pixelado submarino dorado y coral_10: 3805231655350256678
+      Marco pixelado submarino dorado y coral_100: 2252165228939231766
+      Marco pixelado submarino dorado y coral_101: -8916422846519074854
+      Marco pixelado submarino dorado y coral_102: 4826926703721973560
+      Marco pixelado submarino dorado y coral_103: 5287826549953177303
+      Marco pixelado submarino dorado y coral_104: -6244051776453948718
+      Marco pixelado submarino dorado y coral_105: -7262327533555453544
+      Marco pixelado submarino dorado y coral_106: -1509922869804092419
+      Marco pixelado submarino dorado y coral_107: 5339765116597943681
+      Marco pixelado submarino dorado y coral_108: 2273195456665526384
+      Marco pixelado submarino dorado y coral_109: 8801911865102012769
+      Marco pixelado submarino dorado y coral_11: 4995715194490072778
+      Marco pixelado submarino dorado y coral_110: 1346003946015749671
+      Marco pixelado submarino dorado y coral_111: -4114446326923217685
+      Marco pixelado submarino dorado y coral_112: -3539476392092815744
+      Marco pixelado submarino dorado y coral_113: 3228308728533616269
+      Marco pixelado submarino dorado y coral_114: 1476898947792615979
+      Marco pixelado submarino dorado y coral_115: 4057052241077755271
+      Marco pixelado submarino dorado y coral_116: -5854708463938071339
+      Marco pixelado submarino dorado y coral_117: 2288762346106779904
+      Marco pixelado submarino dorado y coral_118: 4953855207639580183
+      Marco pixelado submarino dorado y coral_119: 6795779465358637034
+      Marco pixelado submarino dorado y coral_12: 6417601726384901849
+      Marco pixelado submarino dorado y coral_120: 6703046382175562948
+      Marco pixelado submarino dorado y coral_121: 670904280794070481
+      Marco pixelado submarino dorado y coral_122: -5637277143935331233
+      Marco pixelado submarino dorado y coral_123: -2142633667011864500
+      Marco pixelado submarino dorado y coral_124: -4756295798391069612
+      Marco pixelado submarino dorado y coral_125: 5623406060321097011
+      Marco pixelado submarino dorado y coral_126: -5712652252335805162
+      Marco pixelado submarino dorado y coral_127: 6135022697255414296
+      Marco pixelado submarino dorado y coral_128: 3570800606466272712
+      Marco pixelado submarino dorado y coral_129: -6097722194517100833
+      Marco pixelado submarino dorado y coral_13: 8867407065993094910
+      Marco pixelado submarino dorado y coral_130: 9108730362957547860
+      Marco pixelado submarino dorado y coral_131: 1919856850858189650
+      Marco pixelado submarino dorado y coral_132: -9149846797531138996
+      Marco pixelado submarino dorado y coral_133: -8801722332134426716
+      Marco pixelado submarino dorado y coral_134: 8914361528275174073
+      Marco pixelado submarino dorado y coral_135: -8449030373903984629
+      Marco pixelado submarino dorado y coral_136: -6314725784476176985
+      Marco pixelado submarino dorado y coral_137: 3377283389417184239
+      Marco pixelado submarino dorado y coral_138: -4353319106583429959
+      Marco pixelado submarino dorado y coral_139: -4734535596910127756
+      Marco pixelado submarino dorado y coral_14: 1990354333016177297
+      Marco pixelado submarino dorado y coral_140: 2138101919339846418
+      Marco pixelado submarino dorado y coral_141: -6175325255196082967
+      Marco pixelado submarino dorado y coral_142: -3362715877682989396
+      Marco pixelado submarino dorado y coral_143: 3935552373437144187
+      Marco pixelado submarino dorado y coral_144: -4134354033375472131
+      Marco pixelado submarino dorado y coral_145: -7751309740686747133
+      Marco pixelado submarino dorado y coral_146: 2759318975422081685
+      Marco pixelado submarino dorado y coral_147: -8508543773187864709
+      Marco pixelado submarino dorado y coral_148: 497482395639791953
+      Marco pixelado submarino dorado y coral_149: -8640065020897744982
+      Marco pixelado submarino dorado y coral_15: 2220650940336192199
+      Marco pixelado submarino dorado y coral_150: -4755926532976616054
+      Marco pixelado submarino dorado y coral_151: 6200251222827298055
+      Marco pixelado submarino dorado y coral_152: 5622666052308790062
+      Marco pixelado submarino dorado y coral_153: -2517027504031488350
+      Marco pixelado submarino dorado y coral_154: -4305983279441163544
+      Marco pixelado submarino dorado y coral_155: -7242408372922825638
+      Marco pixelado submarino dorado y coral_156: -3167441238824278783
+      Marco pixelado submarino dorado y coral_157: -5773092159186845685
+      Marco pixelado submarino dorado y coral_158: -3716431762582143065
+      Marco pixelado submarino dorado y coral_159: -8617011475750663293
+      Marco pixelado submarino dorado y coral_16: -3360083076169915534
+      Marco pixelado submarino dorado y coral_160: -4153720577932721033
+      Marco pixelado submarino dorado y coral_161: 6162397248483259480
+      Marco pixelado submarino dorado y coral_162: 7626582371512512896
+      Marco pixelado submarino dorado y coral_163: -8335154026736141780
+      Marco pixelado submarino dorado y coral_164: 554353179469361118
+      Marco pixelado submarino dorado y coral_165: -5159031196168685650
+      Marco pixelado submarino dorado y coral_166: -6561134758974418863
+      Marco pixelado submarino dorado y coral_167: -4394135581145666392
+      Marco pixelado submarino dorado y coral_168: 5278520101614603823
+      Marco pixelado submarino dorado y coral_169: -1016730718796993349
+      Marco pixelado submarino dorado y coral_17: -199619178059732293
+      Marco pixelado submarino dorado y coral_170: -597919368117335738
+      Marco pixelado submarino dorado y coral_171: 3946830201594897670
+      Marco pixelado submarino dorado y coral_172: 3532776378725003392
+      Marco pixelado submarino dorado y coral_18: -5932700224012877135
+      Marco pixelado submarino dorado y coral_19: 2980335625204763812
+      Marco pixelado submarino dorado y coral_2: -4277501483506627847
+      Marco pixelado submarino dorado y coral_20: 1880974832518773582
+      Marco pixelado submarino dorado y coral_21: -398592038390372632
+      Marco pixelado submarino dorado y coral_22: 4081055532586246868
+      Marco pixelado submarino dorado y coral_23: -7826325615381808293
+      Marco pixelado submarino dorado y coral_24: 4084966974544337924
+      Marco pixelado submarino dorado y coral_25: -1940891993879574588
+      Marco pixelado submarino dorado y coral_26: 5760117657646411501
+      Marco pixelado submarino dorado y coral_27: 117615895210168741
+      Marco pixelado submarino dorado y coral_28: 8037474136773888424
+      Marco pixelado submarino dorado y coral_29: 2664769684120623430
+      Marco pixelado submarino dorado y coral_3: 4937316702073277709
+      Marco pixelado submarino dorado y coral_30: 8349840704161480533
+      Marco pixelado submarino dorado y coral_31: -1301672298943930055
+      Marco pixelado submarino dorado y coral_32: -5183112192566755289
+      Marco pixelado submarino dorado y coral_33: -3882782134840466003
+      Marco pixelado submarino dorado y coral_34: -295687571327240619
+      Marco pixelado submarino dorado y coral_35: 1300298810596716773
+      Marco pixelado submarino dorado y coral_36: -2908053603417252508
+      Marco pixelado submarino dorado y coral_37: 4490305627885878906
+      Marco pixelado submarino dorado y coral_38: -6453300415696413435
+      Marco pixelado submarino dorado y coral_39: 4183802854810061701
+      Marco pixelado submarino dorado y coral_4: -418734250537793343
+      Marco pixelado submarino dorado y coral_40: -4620922663827965282
+      Marco pixelado submarino dorado y coral_41: 785679330912768212
+      Marco pixelado submarino dorado y coral_42: 8384266716207480728
+      Marco pixelado submarino dorado y coral_43: 2358312628968180434
+      Marco pixelado submarino dorado y coral_44: -5370806123962660246
+      Marco pixelado submarino dorado y coral_45: 8027066251855540403
+      Marco pixelado submarino dorado y coral_46: 1959133837164815171
+      Marco pixelado submarino dorado y coral_47: 5719090318571750694
+      Marco pixelado submarino dorado y coral_48: 3045018989222333882
+      Marco pixelado submarino dorado y coral_49: 3278857616655173149
+      Marco pixelado submarino dorado y coral_5: -1045169094445443849
+      Marco pixelado submarino dorado y coral_50: -8660696192888163199
+      Marco pixelado submarino dorado y coral_51: -5097115145777645648
+      Marco pixelado submarino dorado y coral_52: -2072993018853092434
+      Marco pixelado submarino dorado y coral_53: -8052918318815872185
+      Marco pixelado submarino dorado y coral_54: 4384532737257480192
+      Marco pixelado submarino dorado y coral_55: -904065089776527888
+      Marco pixelado submarino dorado y coral_56: -5374190496749551948
+      Marco pixelado submarino dorado y coral_57: 5692217702016779371
+      Marco pixelado submarino dorado y coral_58: -9010050899034056664
+      Marco pixelado submarino dorado y coral_59: -3663808948090840748
+      Marco pixelado submarino dorado y coral_6: 1677201221390569200
+      Marco pixelado submarino dorado y coral_60: -2991025010502132370
+      Marco pixelado submarino dorado y coral_61: -2401596828409299965
+      Marco pixelado submarino dorado y coral_62: 2942041984090246654
+      Marco pixelado submarino dorado y coral_63: 3204723087880194589
+      Marco pixelado submarino dorado y coral_64: 5330407082412229433
+      Marco pixelado submarino dorado y coral_65: -4357539807981961413
+      Marco pixelado submarino dorado y coral_66: -5987260503470827281
+      Marco pixelado submarino dorado y coral_67: 3277644604917029357
+      Marco pixelado submarino dorado y coral_68: 1886321657909617807
+      Marco pixelado submarino dorado y coral_69: -5033226550106822275
+      Marco pixelado submarino dorado y coral_7: -2093844781582777824
+      Marco pixelado submarino dorado y coral_70: 4810847007228379803
+      Marco pixelado submarino dorado y coral_71: -1675939453219976714
+      Marco pixelado submarino dorado y coral_72: -8339573087960997561
+      Marco pixelado submarino dorado y coral_73: 8546669084489748829
+      Marco pixelado submarino dorado y coral_74: 5420797855256335351
+      Marco pixelado submarino dorado y coral_75: -5708339924331009903
+      Marco pixelado submarino dorado y coral_76: 4834313317508600826
+      Marco pixelado submarino dorado y coral_77: -1182928719395916803
+      Marco pixelado submarino dorado y coral_78: 750054277226094639
+      Marco pixelado submarino dorado y coral_79: 2578466101169695476
+      Marco pixelado submarino dorado y coral_8: 2082335824298234592
+      Marco pixelado submarino dorado y coral_80: 1410059811700819824
+      Marco pixelado submarino dorado y coral_81: -5628275049475256323
+      Marco pixelado submarino dorado y coral_82: -5061675127555666744
+      Marco pixelado submarino dorado y coral_83: -2737855269050611079
+      Marco pixelado submarino dorado y coral_84: -1430062201999857526
+      Marco pixelado submarino dorado y coral_85: -5389611000207001135
+      Marco pixelado submarino dorado y coral_86: 7570046458382660045
+      Marco pixelado submarino dorado y coral_87: -5016755541563362260
+      Marco pixelado submarino dorado y coral_88: 2887951612820510452
+      Marco pixelado submarino dorado y coral_89: -3586223420332380926
+      Marco pixelado submarino dorado y coral_9: 491582599967910558
+      Marco pixelado submarino dorado y coral_90: -4224641600858214588
+      Marco pixelado submarino dorado y coral_91: -9052302847964717138
+      Marco pixelado submarino dorado y coral_92: -5544197034926252485
+      Marco pixelado submarino dorado y coral_93: -8871540990759566983
+      Marco pixelado submarino dorado y coral_94: 8547404541122788660
+      Marco pixelado submarino dorado y coral_95: -5456572511833532189
+      Marco pixelado submarino dorado y coral_96: -3003228519494143484
+      Marco pixelado submarino dorado y coral_97: 8801535511892444389
+      Marco pixelado submarino dorado y coral_98: 2921926617819852717
+      Marco pixelado submarino dorado y coral_99: 5414259317985220474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

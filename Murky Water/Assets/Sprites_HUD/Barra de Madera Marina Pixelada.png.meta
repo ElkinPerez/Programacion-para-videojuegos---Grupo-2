@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: c3a798e8872261047ae20cd1631fc48b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4042243421834301439
+    second: Barra de Madera Marina Pixelada_0
+  - first:
+      213: 8787050057179023273
+    second: Barra de Madera Marina Pixelada_1
+  - first:
+      213: -1621469655457867409
+    second: Barra de Madera Marina Pixelada_2
+  - first:
+      213: -4639566110403118086
+    second: Barra de Madera Marina Pixelada_3
+  - first:
+      213: -2666239723411799818
+    second: Barra de Madera Marina Pixelada_4
+  - first:
+      213: -1654659575411114259
+    second: Barra de Madera Marina Pixelada_5
+  - first:
+      213: -6171231439169772573
+    second: Barra de Madera Marina Pixelada_6
+  - first:
+      213: 4791379395313177647
+    second: Barra de Madera Marina Pixelada_7
+  - first:
+      213: 8850030193908501280
+    second: Barra de Madera Marina Pixelada_8
+  - first:
+      213: 4664799435138863567
+    second: Barra de Madera Marina Pixelada_9
+  - first:
+      213: -2349341232835331658
+    second: Barra de Madera Marina Pixelada_10
+  - first:
+      213: 5565462579692693674
+    second: Barra de Madera Marina Pixelada_11
+  - first:
+      213: -3290586363619715744
+    second: Barra de Madera Marina Pixelada_12
+  - first:
+      213: 2408832898374145710
+    second: Barra de Madera Marina Pixelada_13
+  - first:
+      213: -2539845913701341527
+    second: Barra de Madera Marina Pixelada_14
+  - first:
+      213: -2662336247053316401
+    second: Barra de Madera Marina Pixelada_15
+  - first:
+      213: -319298460596387196
+    second: Barra de Madera Marina Pixelada_16
+  - first:
+      213: -8279521902681742657
+    second: Barra de Madera Marina Pixelada_17
+  - first:
+      213: 7317032936132685174
+    second: Barra de Madera Marina Pixelada_18
+  - first:
+      213: -8719788424583044385
+    second: Barra de Madera Marina Pixelada_19
+  - first:
+      213: -348151123960313807
+    second: Barra de Madera Marina Pixelada_20
+  - first:
+      213: -6388816863084141264
+    second: Barra de Madera Marina Pixelada_21
+  - first:
+      213: 4992122543774869175
+    second: Barra de Madera Marina Pixelada_22
+  - first:
+      213: 7857081064217233025
+    second: Barra de Madera Marina Pixelada_23
+  - first:
+      213: -3363360555421444319
+    second: Barra de Madera Marina Pixelada_24
+  - first:
+      213: 7973831680276991866
+    second: Barra de Madera Marina Pixelada_25
+  - first:
+      213: 389082424389381537
+    second: Barra de Madera Marina Pixelada_26
+  - first:
+      213: -983587943262517420
+    second: Barra de Madera Marina Pixelada_27
+  - first:
+      213: -2289273003223307890
+    second: Barra de Madera Marina Pixelada_28
+  - first:
+      213: -8908710153192628206
+    second: Barra de Madera Marina Pixelada_29
+  - first:
+      213: 4644101233165537169
+    second: Barra de Madera Marina Pixelada_30
+  - first:
+      213: 2855584502679623947
+    second: Barra de Madera Marina Pixelada_31
+  - first:
+      213: -3563234356682294228
+    second: Barra de Madera Marina Pixelada_32
+  - first:
+      213: 1445309201481410012
+    second: Barra de Madera Marina Pixelada_33
+  - first:
+      213: -8581163062121348089
+    second: Barra de Madera Marina Pixelada_34
+  - first:
+      213: -1194007818851582166
+    second: Barra de Madera Marina Pixelada_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10038e9460117e7c0800000000000000
+      internalID: -4042243421834301439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 675
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a74bb1a87fd1f970800000000000000
+      internalID: 8787050057179023273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 490
+        width: 321
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69db5470f16f79e0800000000000000
+      internalID: -1621469655457867409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 618
+        width: 140
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb3b7d3433fc9fb0800000000000000
+      internalID: -4639566110403118086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_4
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 584
+        width: 245
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f00100191d9ffad0800000000000000
+      internalID: -2666239723411799818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_5
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 600
+        width: 164
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deefb6702e77909e0800000000000000
+      internalID: -1654659575411114259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_6
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 484
+        width: 367
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e32091e3b16b5aa0800000000000000
+      internalID: -6171231439169772573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 582
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2494c99c266e7240800000000000000
+      internalID: 4791379395313177647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 537
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bc567629f91da70800000000000000
+      internalID: 8850030193908501280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc115effe52bcb040800000000000000
+      internalID: 4664799435138863567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 23
+        width: 2140
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9fba89896756fd0800000000000000
+      internalID: -2349341232835331658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_11
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 474
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ef49aabe7c3d40800000000000000
+      internalID: 5565462579692693674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_12
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 416
+        width: 25
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065d3b5f22d7552d0800000000000000
+      internalID: -3290586363619715744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_13
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 474
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea69dde22c4ed6120800000000000000
+      internalID: 2408832898374145710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_14
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 473
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6aa912997a0ccd0800000000000000
+      internalID: -2539845913701341527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_15
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 470
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce8db9f94b7d0bd0800000000000000
+      internalID: -2662336247053316401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_16
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 465
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c2d6edbf919bf0800000000000000
+      internalID: -319298460596387196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 438
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a69042ba391d80800000000000000
+      internalID: -8279521902681742657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 433
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67da50820b25b8560800000000000000
+      internalID: 7317032936132685174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 449
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22a2490a61df680800000000000000
+      internalID: -8719788424583044385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 449
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384138b56e1b2bf0800000000000000
+      internalID: -348151123960313807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_21
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 413
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03528d499ec5657a0800000000000000
+      internalID: -6388816863084141264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_22
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 441
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6abe01105974540800000000000000
+      internalID: 4992122543774869175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_23
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 441
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186cd1c6995f90d60800000000000000
+      internalID: 7857081064217233025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 434
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1275b8a0561f251d0800000000000000
+      internalID: -3363360555421444319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_25
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 441
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f8aa18aadb8ae60800000000000000
+      internalID: 7973831680276991866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 441
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ada31e476c466500800000000000000
+      internalID: 389082424389381537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_27
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 440
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4570b741af79952f0800000000000000
+      internalID: -983587943262517420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_28
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 425
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89abf8255eda30e0800000000000000
+      internalID: -2289273003223307890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_29
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 425
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a908e057ed5480800000000000000
+      internalID: -8908710153192628206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_30
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 439
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f09cf4779237040800000000000000
+      internalID: 4644101233165537169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_31
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b095454c9f211a720800000000000000
+      internalID: 2855584502679623947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cfb7e3b39dc8ec0800000000000000
+      internalID: -3563234356682294228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_33
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 225
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd527e8af05ce0410800000000000000
+      internalID: 1445309201481410012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_34
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 200
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704cd82f8a599e880800000000000000
+      internalID: -8581163062121348089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barra de Madera Marina Pixelada_35
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 168
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fff4207380e6fe0800000000000000
+      internalID: -1194007818851582166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4595748142d2624ea6773e839132663
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Barra de Madera Marina Pixelada_0: -4042243421834301439
+      Barra de Madera Marina Pixelada_1: 8787050057179023273
+      Barra de Madera Marina Pixelada_10: -2349341232835331658
+      Barra de Madera Marina Pixelada_11: 5565462579692693674
+      Barra de Madera Marina Pixelada_12: -3290586363619715744
+      Barra de Madera Marina Pixelada_13: 2408832898374145710
+      Barra de Madera Marina Pixelada_14: -2539845913701341527
+      Barra de Madera Marina Pixelada_15: -2662336247053316401
+      Barra de Madera Marina Pixelada_16: -319298460596387196
+      Barra de Madera Marina Pixelada_17: -8279521902681742657
+      Barra de Madera Marina Pixelada_18: 7317032936132685174
+      Barra de Madera Marina Pixelada_19: -8719788424583044385
+      Barra de Madera Marina Pixelada_2: -1621469655457867409
+      Barra de Madera Marina Pixelada_20: -348151123960313807
+      Barra de Madera Marina Pixelada_21: -6388816863084141264
+      Barra de Madera Marina Pixelada_22: 4992122543774869175
+      Barra de Madera Marina Pixelada_23: 7857081064217233025
+      Barra de Madera Marina Pixelada_24: -3363360555421444319
+      Barra de Madera Marina Pixelada_25: 7973831680276991866
+      Barra de Madera Marina Pixelada_26: 389082424389381537
+      Barra de Madera Marina Pixelada_27: -983587943262517420
+      Barra de Madera Marina Pixelada_28: -2289273003223307890
+      Barra de Madera Marina Pixelada_29: -8908710153192628206
+      Barra de Madera Marina Pixelada_3: -4639566110403118086
+      Barra de Madera Marina Pixelada_30: 4644101233165537169
+      Barra de Madera Marina Pixelada_31: 2855584502679623947
+      Barra de Madera Marina Pixelada_32: -3563234356682294228
+      Barra de Madera Marina Pixelada_33: 1445309201481410012
+      Barra de Madera Marina Pixelada_34: -8581163062121348089
+      Barra de Madera Marina Pixelada_35: -1194007818851582166
+      Barra de Madera Marina Pixelada_4: -2666239723411799818
+      Barra de Madera Marina Pixelada_5: -1654659575411114259
+      Barra de Madera Marina Pixelada_6: -6171231439169772573
+      Barra de Madera Marina Pixelada_7: 4791379395313177647
+      Barra de Madera Marina Pixelada_8: 8850030193908501280
+      Barra de Madera Marina Pixelada_9: 4664799435138863567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
