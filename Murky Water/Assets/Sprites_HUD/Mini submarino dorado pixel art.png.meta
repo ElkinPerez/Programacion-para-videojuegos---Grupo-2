@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 568524f9af2c6d9499e8a1c7f82ef8ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9000343266318599664
+    second: Mini submarino dorado pixel art_0
+  - first:
+      213: -7423225063895608283
+    second: Mini submarino dorado pixel art_1
+  - first:
+      213: 8919228759301335400
+    second: Mini submarino dorado pixel art_2
+  - first:
+      213: -1605805050807451618
+    second: Mini submarino dorado pixel art_3
+  - first:
+      213: 2966381691124194572
+    second: Mini submarino dorado pixel art_4
+  - first:
+      213: 8529120809732104349
+    second: Mini submarino dorado pixel art_5
+  - first:
+      213: -4685060303130951770
+    second: Mini submarino dorado pixel art_6
+  - first:
+      213: -8719209924559171120
+    second: Mini submarino dorado pixel art_7
+  - first:
+      213: -6272634479026825893
+    second: Mini submarino dorado pixel art_8
+  - first:
+      213: 2724408657451608841
+    second: Mini submarino dorado pixel art_9
+  - first:
+      213: -6577366674217066665
+    second: Mini submarino dorado pixel art_10
+  - first:
+      213: -2486247001369525456
+    second: Mini submarino dorado pixel art_11
+  - first:
+      213: -798721026923556551
+    second: Mini submarino dorado pixel art_12
+  - first:
+      213: 3281996396295120814
+    second: Mini submarino dorado pixel art_13
+  - first:
+      213: -2758691989131553220
+    second: Mini submarino dorado pixel art_14
+  - first:
+      213: 7728049636274404847
+    second: Mini submarino dorado pixel art_15
+  - first:
+      213: -6092157544073383753
+    second: Mini submarino dorado pixel art_16
+  - first:
+      213: 5100558596583326213
+    second: Mini submarino dorado pixel art_17
+  - first:
+      213: 7030803278759029718
+    second: Mini submarino dorado pixel art_18
+  - first:
+      213: -2754007875802843884
+    second: Mini submarino dorado pixel art_19
+  - first:
+      213: 7392176733963954471
+    second: Mini submarino dorado pixel art_20
+  - first:
+      213: 1719742233410105766
+    second: Mini submarino dorado pixel art_21
+  - first:
+      213: 6303402639196440343
+    second: Mini submarino dorado pixel art_22
+  - first:
+      213: 4477726121991930086
+    second: Mini submarino dorado pixel art_23
+  - first:
+      213: -6035676986182459098
+    second: Mini submarino dorado pixel art_24
+  - first:
+      213: -4050224919930479471
+    second: Mini submarino dorado pixel art_25
+  - first:
+      213: -5633708376357511666
+    second: Mini submarino dorado pixel art_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 102
+        width: 1249
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a30823c7b581380800000000000000
+      internalID: -9000343266318599664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_1
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1057
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524d9b262286bf890800000000000000
+      internalID: -7423225063895608283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_2
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 953
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869aa9cec4777cb70800000000000000
+      internalID: 8919228759301335400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 794
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10081070d807b9e0800000000000000
+      internalID: -1605805050807451618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 770
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d1ea77e64ba2920800000000000000
+      internalID: 2966381691124194572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 722
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90697eef268d5670800000000000000
+      internalID: 8529120809732104349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_6
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 550
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af78901a725bfeb0800000000000000
+      internalID: -4685060303130951770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_7
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 560
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1179c15c42ff680800000000000000
+      internalID: -8719209924559171120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 488
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b551db7dc2023f8a0800000000000000
+      internalID: -6272634479026825893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_9
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 221
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90be66a4d3b0fc520800000000000000
+      internalID: 2724408657451608841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_10
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 167
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f9cc1bbdf78b4a0800000000000000
+      internalID: -6577366674217066665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_11
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 177
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0334d7366831f7dd0800000000000000
+      internalID: -2486247001369525456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_12
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 141
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9311693357f5ae4f0800000000000000
+      internalID: -798721026923556551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_13
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 143
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7684b655efb8d20800000000000000
+      internalID: 3281996396295120814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 117
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c361917804827b9d0800000000000000
+      internalID: -2758691989131553220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_15
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf8b0033c8f3b60800000000000000
+      internalID: 7728049636274404847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 105
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b03ac5cdfe447ba0800000000000000
+      internalID: -6092157544073383753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_17
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 119
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5020a690503d8c640800000000000000
+      internalID: 5100558596583326213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_18
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 97
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db651cc45e629160800000000000000
+      internalID: 7030803278759029718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_19
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 111
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415b426ad6cc7c9d0800000000000000
+      internalID: -2754007875802843884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_20
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 113
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72924d8f299469660800000000000000
+      internalID: 7392176733963954471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a175af1370cdd710800000000000000
+      internalID: 1719742233410105766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_22
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 95
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7174091bd4f2a7750800000000000000
+      internalID: 6303402639196440343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_23
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 89
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e001d61f24142e30800000000000000
+      internalID: 4477726121991930086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_24
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 79
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621289b62c7fc3ca0800000000000000
+      internalID: -6035676986182459098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_25
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 79
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cdb13f4e5bac7c0800000000000000
+      internalID: -4050224919930479471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini submarino dorado pixel art_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e5113941c01d1b0800000000000000
+      internalID: -5633708376357511666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e3c4c54af4544874e9a2f61fce8e3437
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mini submarino dorado pixel art_0: -9000343266318599664
+      Mini submarino dorado pixel art_1: -7423225063895608283
+      Mini submarino dorado pixel art_10: -6577366674217066665
+      Mini submarino dorado pixel art_11: -2486247001369525456
+      Mini submarino dorado pixel art_12: -798721026923556551
+      Mini submarino dorado pixel art_13: 3281996396295120814
+      Mini submarino dorado pixel art_14: -2758691989131553220
+      Mini submarino dorado pixel art_15: 7728049636274404847
+      Mini submarino dorado pixel art_16: -6092157544073383753
+      Mini submarino dorado pixel art_17: 5100558596583326213
+      Mini submarino dorado pixel art_18: 7030803278759029718
+      Mini submarino dorado pixel art_19: -2754007875802843884
+      Mini submarino dorado pixel art_2: 8919228759301335400
+      Mini submarino dorado pixel art_20: 7392176733963954471
+      Mini submarino dorado pixel art_21: 1719742233410105766
+      Mini submarino dorado pixel art_22: 6303402639196440343
+      Mini submarino dorado pixel art_23: 4477726121991930086
+      Mini submarino dorado pixel art_24: -6035676986182459098
+      Mini submarino dorado pixel art_25: -4050224919930479471
+      Mini submarino dorado pixel art_26: -5633708376357511666
+      Mini submarino dorado pixel art_3: -1605805050807451618
+      Mini submarino dorado pixel art_4: 2966381691124194572
+      Mini submarino dorado pixel art_5: 8529120809732104349
+      Mini submarino dorado pixel art_6: -4685060303130951770
+      Mini submarino dorado pixel art_7: -8719209924559171120
+      Mini submarino dorado pixel art_8: -6272634479026825893
+      Mini submarino dorado pixel art_9: 2724408657451608841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
