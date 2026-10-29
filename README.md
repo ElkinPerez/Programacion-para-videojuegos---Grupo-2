@@ -38,7 +38,7 @@ In this stage of development (Stage 3), the team focused on implementing the vis
 **Erlys Sandrith Hernández Angarita**
 *Visual Designer and 2D Artist*
 
-![Erlys Hernandez](./Murky%20Water/images/erlys.jpg)
+![Erlys Hernandez](./Murky%20Water/images/Erlys.jpg)
 
 **About me:** I am from Aguachica, Cesar. I am 25 years old and currently in my eighth semester of Multimedia Engineering at UNAD. My role involved the visual creation of the first two environments (Natural and Initial Deterioration) and implementing visual accessibility criteria.
 
@@ -46,7 +46,7 @@ In this stage of development (Stage 3), the team focused on implementing the vis
 **Jose Luis Salas Arias**
 *UI Designer and Asset Manager*
 
-![Jose Salas](./Murky%20Water/images/jose.jpg)
+![Jose Salas](./Murky%20Water/images/Jose.jpg)
 
 **About me:** I am from Valledupar, Cesar. I am 19 years old and a Multimedia Engineering student. My role consisted of designing and integrating the graphic assets for the main menu, settings panel, and interface backgrounds.
 
