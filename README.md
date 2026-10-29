@@ -1,43 +1,41 @@
-# Programacion-para-videojuegos---Grupo-2
+# Murky Water
 
-<h1>Integrantes del grupo 2</h1>
-<h2>Game Designer/Programmer</h2>
+## Game Description
+**Murky Water** is an immersive 2D side-scrolling underwater minigame developed in Unity. The core gameplay revolves around a fish navigating an increasingly polluted ocean. The player must survive by maintaining their health and energy levels, eating clean food sources while avoiding toxic waste, submerged obstacles, and a dangerous predator.
 
-## Elkin Perez
+The game is structured across four distinct visual phases that dynamically represent the progression of environmental deterioration:
+1. **Natural Environment:** A clean, vibrant seabed with natural corals and rocks.
+2. **Submerged Elements:** The first signs of human impact, featuring nets and submerged structures.
+3. **Critical Pollution:** A darker, greenish-gray atmosphere filled with scattered trash, tires, and dead vegetation.
+4. **Hyper Pollution:** A highly toxic green environment with leaking barrels, sea mines, and a ruined ecosystem.
 
-<img src="https://i.ibb.co/JwJfbBxT/foto-perfil.jpg" alt="foto perfil" width="400">
+In this stage of development (Stage 3), the team focused on implementing the visual UI/UX components, including custom AI-generated health and energy bars, a dynamic progress slider, and accessibility features like visual alerts and screen effects to enhance player feedback. Additionally, the team integrated 2D pixel-art animations for the characters, interactive obstacles, and environmental effects (like bubbles and seaweed) to bring the ocean atmosphere to life.
 
-### Sobre mi
-- Soy de Corozal Sucre Colombia, tengo 20 años y soy estudiante de ingenieria multimedia.
-- Mi rol escogido es el de Game Designer / Programmer.
+---
 
-## Nevys Bujato
+## Team Roles
 
-<img width="480" height="640" alt="WhatsApp Image 2026-08-18 at 9 06 59 PM" src="https://github.com/user-attachments/assets/9eed9fcc-c93d-4415-a91c-094b0cc9eba5" />
+**Elkin Andrés Pérez Canchila**
+*Project Manager and Lead Designer*
+![Elkin Perez](./Murky%20Water/images/elkin.jpg)
+**About me:** I am from Corozal, Sucre, Colombia. I am 20 years old and a Multimedia Engineering student. My role focused on coordinating the team, managing the version control pipeline, and implementing animations for the player and enemies.
 
-## Sobre mí 
-Soy de Barranquilla-Colombia y estoy en octavo semestre de Ingeniería multimedia 
-Mi plato favorito es la pechuga asada por si me quieren regalar una JAJAJA
+**Nevys Andrea Bujato Tellez**
+*Art Director and Writer*
+![Nevys Bujato](./Murky%20Water/images/nevys.jpg)
+**About me:** I am from Barranquilla, Colombia, and I am in my eighth semester of Multimedia Engineering. My role in this stage was designing the scenarios for the Critical Pollution and Hyper Pollution phases, establishing the narrative concept, and defining the color palette.
 
-<img width="412" height="379" alt="WhatsApp Image 2026-08-30 at 1 55 23 PM" src="https://github.com/user-attachments/assets/f0d6552a-6965-4b6f-8df4-1dc51eb76686" />
+**Erlys Sandrith Hernández Angarita**
+*Visual Designer and 2D Artist*
+![Erlys Hernandez](./Murky%20Water/images/erlys.jpg)
+**About me:** I am from Aguachica, Cesar. I am 25 years old and currently in my eighth semester of Multimedia Engineering at UNAD. My role involved the visual creation of the first two environments (Natural and Initial Deterioration) and implementing visual accessibility criteria.
 
-<h2>Level Designer</h2>
+**Jose Luis Salas Arias**
+*UI Designer and Asset Manager*
+![Jose Salas](./Murky%20Water/images/jose.jpg)
+**About me:** I am from Valledupar, Cesar. I am 19 years old and a Multimedia Engineering student. My role consisted of designing and integrating the graphic assets for the main menu, settings panel, and interface backgrounds.
 
-## Erlys Hernandez
-
-<img src="https://i.ibb.co/3yK9ZM88/IMG-4597.jpg" alt="foto perfil" width="400">
-
-## Sobre mi
-- Soy de Aguchica Cesar, tengo 25 años y actualmente estoy en el octavo semestre en Ingenieria Multimedia en la UNAD.
-- Mi rol escogido en esta actividad es Level Designer.
-
-<h2>Asset Manager</h2>
-
-## Jose Salas
-
-<a href="https://ibb.co/Zz82sC4c"><img src="https://i.ibb.co/hFWY5vQ2/IMG-0492.jpg" alt="IMG-0492" borde="0" /></a>
-
-### Sobre mi
-
-- Soy de Valledupar, Cesar, tengo 19 años y estudio Ingeniería Multimedia.
-- Mi rol para esta actividad es el de Asset Manager.
+**Nallith Alfonso Aguilar Castaño**
+*UI/UX Designer and Audio Integrator*
+![Nallith Aguilar](./Murky%20Water/images/nallith.jpg)
+**About me:** I am from El Banco, Magdalena, Colombia. I am 20 years old and currently in my eighth semester of Multimedia Engineering at UNAD. My role focused on the design and technical integration of the in-game HUD (Head-Up Display) using AI tools, as well as the collection and structuring of the sound system.
