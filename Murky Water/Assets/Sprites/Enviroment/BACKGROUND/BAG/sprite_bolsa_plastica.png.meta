@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 881a7f8618c722340b7f432118fb1257
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1725274747857399942
+    second: sprite_bolsa_plastica_0
+  - first:
+      213: -2183413281913632583
+    second: sprite_bolsa_plastica_1
+  - first:
+      213: 34728145951521106
+    second: sprite_bolsa_plastica_2
+  - first:
+      213: 7639541277685131787
+    second: sprite_bolsa_plastica_3
+  - first:
+      213: 1175198909348364176
+    second: sprite_bolsa_plastica_4
+  - first:
+      213: 3242768240444206440
+    second: sprite_bolsa_plastica_5
+  - first:
+      213: -1776816175349148249
+    second: sprite_bolsa_plastica_6
+  - first:
+      213: -5293138845060418948
+    second: sprite_bolsa_plastica_7
+  - first:
+      213: -8748769204825456200
+    second: sprite_bolsa_plastica_8
+  - first:
+      213: 989094794766493495
+    second: sprite_bolsa_plastica_9
+  - first:
+      213: -4762352661593489716
+    second: sprite_bolsa_plastica_10
+  - first:
+      213: -5378253221526579173
+    second: sprite_bolsa_plastica_11
+  - first:
+      213: -3386639596652333238
+    second: sprite_bolsa_plastica_12
+  - first:
+      213: -6374258740669017255
+    second: sprite_bolsa_plastica_13
+  - first:
+      213: 2633332801669288146
+    second: sprite_bolsa_plastica_14
+  - first:
+      213: 1693923841242262765
+    second: sprite_bolsa_plastica_15
+  - first:
+      213: 6960787242866645880
+    second: sprite_bolsa_plastica_16
+  - first:
+      213: -5926457463271779833
+    second: sprite_bolsa_plastica_17
+  - first:
+      213: 4332916725681548796
+    second: sprite_bolsa_plastica_18
+  - first:
+      213: 5531513080090999613
+    second: sprite_bolsa_plastica_19
+  - first:
+      213: -7324028648352257270
+    second: sprite_bolsa_plastica_20
+  - first:
+      213: -790352371850148742
+    second: sprite_bolsa_plastica_21
+  - first:
+      213: 6128947913782439177
+    second: sprite_bolsa_plastica_22
+  - first:
+      213: -9163111507138351754
+    second: sprite_bolsa_plastica_23
+  - first:
+      213: 8121824238166049019
+    second: sprite_bolsa_plastica_24
+  - first:
+      213: -3174081809445375373
+    second: sprite_bolsa_plastica_25
+  - first:
+      213: 3776822580060881636
+    second: sprite_bolsa_plastica_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680fdf50e3861f710800000000000000
+      internalID: 1725274747857399942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b80ba53035f2b1e0800000000000000
+      internalID: -2183413281913632583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259f52390116b7000800000000000000
+      internalID: 34728145951521106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a2b57e05a150a60800000000000000
+      internalID: 7639541277685131787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb22c7e252f4010800000000000000
+      internalID: 1175198909348364176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d6894a880a00d20800000000000000
+      internalID: 3242768240444206440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5552d3a1b7757e0800000000000000
+      internalID: -1776816175349148249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c723a51c34efa86b0800000000000000
+      internalID: -5293138845060418948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1808cd2c0269680800000000000000
+      internalID: -8748769204825456200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 53
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ae33b978f9bd00800000000000000
+      internalID: 989094794766493495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce759e7c79b8edb0800000000000000
+      internalID: -4762352661593489716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 46
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18dec2b03b9c55b0800000000000000
+      internalID: -5378253221526579173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 54
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47f343ea3d3001d0800000000000000
+      internalID: -3386639596652333238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9539ef792751a87a0800000000000000
+      internalID: -6374258740669017255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 51
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0d1ea2b3a7b8420800000000000000
+      internalID: 2633332801669288146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 55
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec6fc142c6028710800000000000000
+      internalID: 1693923841242262765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 44
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b13281e1fa99060800000000000000
+      internalID: 6960787242866645880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_17
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702193d365ef0cda0800000000000000
+      internalID: -5926457463271779833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfde8932ecc912c30800000000000000
+      internalID: 4332916725681548796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b3041d6d1e3cc40800000000000000
+      internalID: 5531513080090999613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 26
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bed2aafb2db5a90800000000000000
+      internalID: -7324028648352257270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_21
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a740c7c84ba1805f0800000000000000
+      internalID: -790352371850148742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dafdfa7a56e0550800000000000000
+      internalID: 6128947913782439177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d69bbe1a616d080800000000000000
+      internalID: -9163111507138351754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf08b040d1486b070800000000000000
+      internalID: 8121824238166049019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_25
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372bafb496563f3d0800000000000000
+      internalID: -3174081809445375373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_bolsa_plastica_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e204384028f96430800000000000000
+      internalID: 3776822580060881636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_bolsa_plastica_0: 1725274747857399942
+      sprite_bolsa_plastica_1: -2183413281913632583
+      sprite_bolsa_plastica_10: -4762352661593489716
+      sprite_bolsa_plastica_11: -5378253221526579173
+      sprite_bolsa_plastica_12: -3386639596652333238
+      sprite_bolsa_plastica_13: -6374258740669017255
+      sprite_bolsa_plastica_14: 2633332801669288146
+      sprite_bolsa_plastica_15: 1693923841242262765
+      sprite_bolsa_plastica_16: 6960787242866645880
+      sprite_bolsa_plastica_17: -5926457463271779833
+      sprite_bolsa_plastica_18: 4332916725681548796
+      sprite_bolsa_plastica_19: 5531513080090999613
+      sprite_bolsa_plastica_2: 34728145951521106
+      sprite_bolsa_plastica_20: -7324028648352257270
+      sprite_bolsa_plastica_21: -790352371850148742
+      sprite_bolsa_plastica_22: 6128947913782439177
+      sprite_bolsa_plastica_23: -9163111507138351754
+      sprite_bolsa_plastica_24: 8121824238166049019
+      sprite_bolsa_plastica_25: -3174081809445375373
+      sprite_bolsa_plastica_26: 3776822580060881636
+      sprite_bolsa_plastica_3: 7639541277685131787
+      sprite_bolsa_plastica_4: 1175198909348364176
+      sprite_bolsa_plastica_5: 3242768240444206440
+      sprite_bolsa_plastica_6: -1776816175349148249
+      sprite_bolsa_plastica_7: -5293138845060418948
+      sprite_bolsa_plastica_8: -8748769204825456200
+      sprite_bolsa_plastica_9: 989094794766493495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: ed7e2b527f8eff448a238475204522e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5348757301668374612
+    second: "Marco n\xE1utico pixelado con brillo cian_0"
+  - first:
+      213: 2876720013031270566
+    second: "Marco n\xE1utico pixelado con brillo cian_1"
+  - first:
+      213: 3600723656919858355
+    second: "Marco n\xE1utico pixelado con brillo cian_2"
+  - first:
+      213: -4475173504148807295
+    second: "Marco n\xE1utico pixelado con brillo cian_3"
+  - first:
+      213: -8725946484470210228
+    second: "Marco n\xE1utico pixelado con brillo cian_4"
+  - first:
+      213: -6071882552795022263
+    second: "Marco n\xE1utico pixelado con brillo cian_5"
+  - first:
+      213: -8949196511722611165
+    second: "Marco n\xE1utico pixelado con brillo cian_6"
+  - first:
+      213: -2709337515299709244
+    second: "Marco n\xE1utico pixelado con brillo cian_7"
+  - first:
+      213: 4124445982726343400
+    second: "Marco n\xE1utico pixelado con brillo cian_8"
+  - first:
+      213: -8925375201257778608
+    second: "Marco n\xE1utico pixelado con brillo cian_9"
+  - first:
+      213: -4666590814880891917
+    second: "Marco n\xE1utico pixelado con brillo cian_10"
+  - first:
+      213: -7541029088903331613
+    second: "Marco n\xE1utico pixelado con brillo cian_11"
+  - first:
+      213: 3514651263592937894
+    second: "Marco n\xE1utico pixelado con brillo cian_12"
+  - first:
+      213: 7600766600634059415
+    second: "Marco n\xE1utico pixelado con brillo cian_13"
+  - first:
+      213: -7643385659466864622
+    second: "Marco n\xE1utico pixelado con brillo cian_14"
+  - first:
+      213: -5140304241773752337
+    second: "Marco n\xE1utico pixelado con brillo cian_15"
+  - first:
+      213: -1012022313492755922
+    second: "Marco n\xE1utico pixelado con brillo cian_16"
+  - first:
+      213: 1775832723411404563
+    second: "Marco n\xE1utico pixelado con brillo cian_17"
+  - first:
+      213: -3866545851468718430
+    second: "Marco n\xE1utico pixelado con brillo cian_18"
+  - first:
+      213: 140076274159094291
+    second: "Marco n\xE1utico pixelado con brillo cian_19"
+  - first:
+      213: 3732262383757937207
+    second: "Marco n\xE1utico pixelado con brillo cian_20"
+  - first:
+      213: -5214555848776098304
+    second: "Marco n\xE1utico pixelado con brillo cian_21"
+  - first:
+      213: -1098299699985325528
+    second: "Marco n\xE1utico pixelado con brillo cian_22"
+  - first:
+      213: -3398837859401734703
+    second: "Marco n\xE1utico pixelado con brillo cian_23"
+  - first:
+      213: 6477418665783772948
+    second: "Marco n\xE1utico pixelado con brillo cian_24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45868bb4d6a9a3a40800000000000000
+      internalID: 5348757301668374612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_1"
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 719
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a86cfe3c992ce720800000000000000
+      internalID: 2876720013031270566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_2"
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 693
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcbd09a61758f130800000000000000
+      internalID: 3600723656919858355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_3"
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 708
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18168f0986df4e1c0800000000000000
+      internalID: -4475173504148807295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_4"
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 709
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a51887e537e680800000000000000
+      internalID: -8725946484470210228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_5"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 689
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cb2ca0df65cbba0800000000000000
+      internalID: -6071882552795022263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_6"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 691
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32edb9dff211ec380800000000000000
+      internalID: -8949196511722611165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_7"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 691
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cedbef62ef766ad0800000000000000
+      internalID: -2709337515299709244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_8"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 694
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac0bfd4c9fc3930800000000000000
+      internalID: 4124445982726343400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_9"
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 691
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05213f90b82b22480800000000000000
+      internalID: -8925375201257778608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_10"
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb7ce6e060fc3fb0800000000000000
+      internalID: -4666590814880891917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_11"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 693
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0870b6ff1e85790800000000000000
+      internalID: -7541029088903331613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_12"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 689
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9b5dbe3bc86c030800000000000000
+      internalID: 3514651263592937894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_13"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 693
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a4273e3f85b7960800000000000000
+      internalID: 7600766600634059415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_14"
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 693
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218a9263d3d3de590800000000000000
+      internalID: -7643385659466864622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_15"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 675
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef44afc688f9a8b0800000000000000
+      internalID: -5140304241773752337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_16"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 679
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ace7b511394f1f0800000000000000
+      internalID: -1012022313492755922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_17"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 681
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3178373047605a810800000000000000
+      internalID: 1775832723411404563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_18"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 408
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae527fa805475ac0800000000000000
+      internalID: -3866545851468718430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_19"
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 376
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a86b211a6a1f100800000000000000
+      internalID: 140076274159094291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac1781dd8abc330800000000000000
+      internalID: 3732262383757937207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_21"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 260
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ed34c551d22a7b0800000000000000
+      internalID: -5214555848776098304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_22"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 5
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822e47ded3e02c0f0800000000000000
+      internalID: -1098299699985325528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_23"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5e53589f6e4d0d0800000000000000
+      internalID: -3398837859401734703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Marco n\xE1utico pixelado con brillo cian_24"
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c68b25f964e950800000000000000
+      internalID: 6477418665783772948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Marco n\xE1utico pixelado con brillo cian_0": 5348757301668374612
+      "Marco n\xE1utico pixelado con brillo cian_1": 2876720013031270566
+      "Marco n\xE1utico pixelado con brillo cian_10": -4666590814880891917
+      "Marco n\xE1utico pixelado con brillo cian_11": -7541029088903331613
+      "Marco n\xE1utico pixelado con brillo cian_12": 3514651263592937894
+      "Marco n\xE1utico pixelado con brillo cian_13": 7600766600634059415
+      "Marco n\xE1utico pixelado con brillo cian_14": -7643385659466864622
+      "Marco n\xE1utico pixelado con brillo cian_15": -5140304241773752337
+      "Marco n\xE1utico pixelado con brillo cian_16": -1012022313492755922
+      "Marco n\xE1utico pixelado con brillo cian_17": 1775832723411404563
+      "Marco n\xE1utico pixelado con brillo cian_18": -3866545851468718430
+      "Marco n\xE1utico pixelado con brillo cian_19": 140076274159094291
+      "Marco n\xE1utico pixelado con brillo cian_2": 3600723656919858355
+      "Marco n\xE1utico pixelado con brillo cian_20": 3732262383757937207
+      "Marco n\xE1utico pixelado con brillo cian_21": -5214555848776098304
+      "Marco n\xE1utico pixelado con brillo cian_22": -1098299699985325528
+      "Marco n\xE1utico pixelado con brillo cian_23": -3398837859401734703
+      "Marco n\xE1utico pixelado con brillo cian_24": 6477418665783772948
+      "Marco n\xE1utico pixelado con brillo cian_3": -4475173504148807295
+      "Marco n\xE1utico pixelado con brillo cian_4": -8725946484470210228
+      "Marco n\xE1utico pixelado con brillo cian_5": -6071882552795022263
+      "Marco n\xE1utico pixelado con brillo cian_6": -8949196511722611165
+      "Marco n\xE1utico pixelado con brillo cian_7": -2709337515299709244
+      "Marco n\xE1utico pixelado con brillo cian_8": 4124445982726343400
+      "Marco n\xE1utico pixelado con brillo cian_9": -8925375201257778608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

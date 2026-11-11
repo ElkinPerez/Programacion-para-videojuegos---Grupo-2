@@ -1,0 +1,2261 @@
+fileFormatVersion: 2
+guid: 75fe6b37395504241a43692bdc6a52ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8799203901163943900
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_0"
+  - first:
+      213: 8124767146813310023
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_1"
+  - first:
+      213: -2595910962692177108
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_2"
+  - first:
+      213: -8834927872762645494
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_3"
+  - first:
+      213: -2200181806173529146
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_4"
+  - first:
+      213: -1635205530162396952
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_5"
+  - first:
+      213: 6297914195110009219
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_6"
+  - first:
+      213: -1129744928759366710
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_7"
+  - first:
+      213: 5769110535255313307
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_8"
+  - first:
+      213: -9050844534883270028
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_9"
+  - first:
+      213: 944892411904827926
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_10"
+  - first:
+      213: 2598015817557967668
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_11"
+  - first:
+      213: 1465958447275351176
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_12"
+  - first:
+      213: -7280091120450661190
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_13"
+  - first:
+      213: -1007890202978631691
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_14"
+  - first:
+      213: 7587911149091639207
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_15"
+  - first:
+      213: 8449794346313903639
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_16"
+  - first:
+      213: -2404607095858872486
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_17"
+  - first:
+      213: -5353593090134042565
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_18"
+  - first:
+      213: 6233970242000871570
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_19"
+  - first:
+      213: -7009870559861364960
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_20"
+  - first:
+      213: -7267751465517726315
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_21"
+  - first:
+      213: 6192246382336456055
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_22"
+  - first:
+      213: 7223559640334373561
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_23"
+  - first:
+      213: -6109490543286642061
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_24"
+  - first:
+      213: -7575207362797922152
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_25"
+  - first:
+      213: -1694065165230137603
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_26"
+  - first:
+      213: -8303819879497466484
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_27"
+  - first:
+      213: -5940938251306148389
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_28"
+  - first:
+      213: 3654887872435175721
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_29"
+  - first:
+      213: -1140492025361714894
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_30"
+  - first:
+      213: 8259342884074847971
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_31"
+  - first:
+      213: -9158681864870109267
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_32"
+  - first:
+      213: 1482375298234496219
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_33"
+  - first:
+      213: -8211359106468674444
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_34"
+  - first:
+      213: 3721915512784166879
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_35"
+  - first:
+      213: 2521398300794520719
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_36"
+  - first:
+      213: -892151056832967743
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_37"
+  - first:
+      213: -5898670316878721943
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_38"
+  - first:
+      213: -1811235955410014389
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_39"
+  - first:
+      213: -1270626469818766503
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_40"
+  - first:
+      213: 3485917567965571208
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_41"
+  - first:
+      213: 650221053336151486
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_42"
+  - first:
+      213: -5357315211229667034
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_43"
+  - first:
+      213: 170982951167245842
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_44"
+  - first:
+      213: 5307114267805839808
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_45"
+  - first:
+      213: 6643002084379131724
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_46"
+  - first:
+      213: 6952334768013422672
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_47"
+  - first:
+      213: 8347578729194279337
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_48"
+  - first:
+      213: 3325877525982940614
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_49"
+  - first:
+      213: -8248123176468639534
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_50"
+  - first:
+      213: 6727869047222673829
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_51"
+  - first:
+      213: -3901066100302689354
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_52"
+  - first:
+      213: 8889684832700888343
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_53"
+  - first:
+      213: 893919224972240243
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_54"
+  - first:
+      213: -2453405275401482824
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_55"
+  - first:
+      213: -4581327077756271597
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_56"
+  - first:
+      213: 2403907846154188571
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_57"
+  - first:
+      213: -2333345772942288976
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_58"
+  - first:
+      213: 6573219816837327267
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_59"
+  - first:
+      213: 351323568852930151
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_60"
+  - first:
+      213: 5911824377928630653
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_61"
+  - first:
+      213: 4535010029755029981
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_62"
+  - first:
+      213: 3521157722051090917
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_63"
+  - first:
+      213: 7788761610918038659
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_64"
+  - first:
+      213: -4250860132087575394
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_65"
+  - first:
+      213: 6821300728721440641
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_66"
+  - first:
+      213: 4480515985191980799
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_67"
+  - first:
+      213: 6937922221189319073
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_68"
+  - first:
+      213: 6653455889469628029
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_69"
+  - first:
+      213: 2862374593232538648
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_70"
+  - first:
+      213: -263941146670088403
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_71"
+  - first:
+      213: 500842923438616333
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_72"
+  - first:
+      213: -5075714819231201852
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_73"
+  - first:
+      213: -4095982676187714790
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_74"
+  - first:
+      213: -6266123531571909267
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_75"
+  - first:
+      213: -949741537607721833
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_76"
+  - first:
+      213: 1248378337190184569
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_77"
+  - first:
+      213: -3028245776941297309
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_78"
+  - first:
+      213: -1316837772210001362
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_79"
+  - first:
+      213: 6175656943551340486
+    second: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_80"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 128, y: 0, z: 178, w: 71}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42844ec0ca2f2e580800000000000000
+      internalID: -8799203901163943900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_1"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 188
+        width: 1736
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74442945ca8f0c070800000000000000
+      internalID: 8124767146813310023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_2"
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 639
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23c030bbb879fbd0800000000000000
+      internalID: -2595910962692177108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_3"
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 627
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04f8cfb8e7046580800000000000000
+      internalID: -8834927872762645494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_4"
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 632
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbdfb9ed426771e0800000000000000
+      internalID: -2200181806173529146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_5"
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 626
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e08ae7eb359e49e0800000000000000
+      internalID: -1635205530162396952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_6"
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 602
+        width: 152
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3891c69b79fa66750800000000000000
+      internalID: 6297914195110009219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_7"
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 645
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbbf7219f65250f0800000000000000
+      internalID: -1129744928759366710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_8"
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 642
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4bdb377fff0050800000000000000
+      internalID: 5769110535255313307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_9"
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 636
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4724ff459d0f46280800000000000000
+      internalID: -9050844534883270028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_10"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 612
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612ac8274aeec1d00800000000000000
+      internalID: 944892411904827926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_11"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 610
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43383660f910e0420800000000000000
+      internalID: 2598015817557967668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_12"
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 610
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c9459d071285410800000000000000
+      internalID: 1465958447275351176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_13"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 618
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4101192bbe7fa90800000000000000
+      internalID: -7280091120450661190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_14"
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 614
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffbcde43314302f0800000000000000
+      internalID: -1007890202978631691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_15"
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 606
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af45d4dcfcad4960800000000000000
+      internalID: 7587911149091639207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_16"
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 596
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ee4256033b34570800000000000000
+      internalID: 8449794346313903639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_17"
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 343
+        width: 82
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fb2f2269e11aed0800000000000000
+      internalID: -2404607095858872486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_18"
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 576
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b381396f27734b5b0800000000000000
+      internalID: -5353593090134042565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_19"
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 581
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29061d6f7e2838650800000000000000
+      internalID: 6233970242000871570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_20"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 564
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027aefd9ddfe7be90800000000000000
+      internalID: -7009870559861364960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_21"
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 534
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595cdfd5c82c32b90800000000000000
+      internalID: -7267751465517726315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_22"
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 506
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775bcdcd6474fe550800000000000000
+      internalID: 6192246382336456055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_23"
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 290
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b29af7883d3f3460800000000000000
+      internalID: 7223559640334373561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_24"
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 287
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a9ac868bab63ba0800000000000000
+      internalID: -6109490543286642061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_25"
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 271
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8989188e9057fd690800000000000000
+      internalID: -7575207362797922152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_26"
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 287
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe181035b87d78e0800000000000000
+      internalID: -1694065165230137603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_27"
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 242
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df9bba0d7e2cc80800000000000000
+      internalID: -8303819879497466484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_28"
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 252
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdddd5a032c8d8da0800000000000000
+      internalID: -5940938251306148389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_29"
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 210
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c162d725c8b230800000000000000
+      internalID: 3654887872435175721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_30"
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 216
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2313627ab882c20f0800000000000000
+      internalID: -1140492025361714894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_31"
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 108
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee7e6bd7941f9270800000000000000
+      internalID: 8259342884074847971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_32"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafda916e53d5e080800000000000000
+      internalID: -9158681864870109267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_33"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 85
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4b413da74729410800000000000000
+      internalID: 1482375298234496219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_34"
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 65
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47404c7f5646b0e80800000000000000
+      internalID: -8211359106468674444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_35"
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 69
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf14877076e6a330800000000000000
+      internalID: 3721915512784166879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_36"
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 79
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f848128456ecdf220800000000000000
+      internalID: 2521398300794520719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_37"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 65
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb4b7337517e93f0800000000000000
+      internalID: -892151056832967743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_38"
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 79
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8d4b6996b32ea0800000000000000
+      internalID: -5898670316878721943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_39"
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fee51be723dd6e0800000000000000
+      internalID: -1811235955410014389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_40"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 71
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b6e3035f3dd5ee0800000000000000
+      internalID: -1270626469818766503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_41"
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 69
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a1e21f87706030800000000000000
+      internalID: 3485917567965571208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_42"
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e49d5a9c060900800000000000000
+      internalID: 650221053336151486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_43"
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621ebdc133ef6a5b0800000000000000
+      internalID: -5357315211229667034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_44"
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eb8f296147f5200800000000000000
+      internalID: 170982951167245842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_45"
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c179faee48a6a940800000000000000
+      internalID: 5307114267805839808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_46"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff899133fa03c50800000000000000
+      internalID: 6643002084379131724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_47"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 63
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b90fe2a7ab7060800000000000000
+      internalID: 6952334768013422672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_48"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 62
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15b3870ae88d370800000000000000
+      internalID: 8347578729194279337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_49"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd0ba61df3e72e20800000000000000
+      internalID: 3325877525982940614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_50"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 49
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d09be2eba7c88d80800000000000000
+      internalID: -8248123176468639534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_51"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ad0fa0413e5d50800000000000000
+      internalID: 6727869047222673829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_52"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 65
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbc32eec01acd9c0800000000000000
+      internalID: -3901066100302689354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_53"
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715705a71418e5b70800000000000000
+      internalID: 8889684832700888343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_54"
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 47
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375ec568cc6d76c00800000000000000
+      internalID: 893919224972240243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_55"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 45
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd00a596e0c3fdd0800000000000000
+      internalID: -2453405275401482824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_56"
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3148572bb4bdb60c0800000000000000
+      internalID: -4581327077756271597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_57"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b177bca13756c5120800000000000000
+      internalID: 2403907846154188571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_58"
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b79d91d16a4e9fd0800000000000000
+      internalID: -2333345772942288976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_59"
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 55
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9a525d894c83b50800000000000000
+      internalID: 6573219816837327267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_60"
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 50
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e83baace620e400800000000000000
+      internalID: 351323568852930151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_61"
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 53
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d714ee413f40b0250800000000000000
+      internalID: 5911824377928630653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_62"
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 49
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9d16438979fee30800000000000000
+      internalID: 4535010029755029981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_63"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 35
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99af4da4aadd030800000000000000
+      internalID: 3521157722051090917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_64"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 34
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c08f22b6d371c60800000000000000
+      internalID: 7788761610918038659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_65"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ccc0d5b39e105c0800000000000000
+      internalID: -4250860132087575394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_66"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ffd893fd02aae50800000000000000
+      internalID: 6821300728721440641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_67"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 30
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffec3dbbc8dfd2e30800000000000000
+      internalID: 4480515985191980799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_68"
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 33
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a947416083784060800000000000000
+      internalID: 6937922221189319073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_69"
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 29
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e519441e2d55c50800000000000000
+      internalID: 6653455889469628029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_70"
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 29
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c8abbe68239b720800000000000000
+      internalID: 2862374593232538648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_71"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 27
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fbe1fecea465cf0800000000000000
+      internalID: -263941146670088403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_72"
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 29
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fa3db3cf953f600800000000000000
+      internalID: 500842923438616333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_73"
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 33
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5c982a3407f89b0800000000000000
+      internalID: -5075714819231201852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_74"
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 27
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b6dab15752827c0800000000000000
+      internalID: -4095982676187714790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_75"
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 33
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6da0fde8d14a09a0800000000000000
+      internalID: -6266123531571909267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_76"
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 30
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c557e7a17d1d2f0800000000000000
+      internalID: -949741537607721833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_77"
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9768385cb71235110800000000000000
+      internalID: 1248378337190184569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_78"
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 31
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36156dc928289f5d0800000000000000
+      internalID: -3028245776941297309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_79"
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 31
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2b98e507a9bde0800000000000000
+      internalID: -1316837772210001362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_80"
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf5d07254754b550800000000000000
+      internalID: 6175656943551340486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_81"
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 179
+        width: 90
+        height: 465
+      alignment: 9
+      pivot: {x: -0.052365452, y: 1.8801025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c6f29e2afb634ca501281067edc4d
+      internalID: 1974253194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_0": -8799203901163943900
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_1": 8124767146813310023
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_10": 944892411904827926
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_11": 2598015817557967668
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_12": 1465958447275351176
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_13": -7280091120450661190
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_14": -1007890202978631691
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_15": 7587911149091639207
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_16": 8449794346313903639
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_17": -2404607095858872486
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_18": -5353593090134042565
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_19": 6233970242000871570
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_2": -2595910962692177108
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_20": -7009870559861364960
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_21": -7267751465517726315
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_22": 6192246382336456055
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_23": 7223559640334373561
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_24": -6109490543286642061
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_25": -7575207362797922152
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_26": -1694065165230137603
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_27": -8303819879497466484
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_28": -5940938251306148389
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_29": 3654887872435175721
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_3": -8834927872762645494
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_30": -1140492025361714894
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_31": 8259342884074847971
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_32": -9158681864870109267
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_33": 1482375298234496219
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_34": -8211359106468674444
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_35": 3721915512784166879
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_36": 2521398300794520719
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_37": -892151056832967743
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_38": -5898670316878721943
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_39": -1811235955410014389
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_4": -2200181806173529146
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_40": -1270626469818766503
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_41": 3485917567965571208
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_42": 650221053336151486
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_43": -5357315211229667034
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_44": 170982951167245842
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_45": 5307114267805839808
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_46": 6643002084379131724
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_47": 6952334768013422672
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_48": 8347578729194279337
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_49": 3325877525982940614
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_5": -1635205530162396952
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_50": -8248123176468639534
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_51": 6727869047222673829
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_52": -3901066100302689354
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_53": 8889684832700888343
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_54": 893919224972240243
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_55": -2453405275401482824
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_56": -4581327077756271597
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_57": 2403907846154188571
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_58": -2333345772942288976
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_59": 6573219816837327267
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_6": 6297914195110009219
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_60": 351323568852930151
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_61": 5911824377928630653
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_62": 4535010029755029981
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_63": 3521157722051090917
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_64": 7788761610918038659
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_65": -4250860132087575394
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_66": 6821300728721440641
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_67": 4480515985191980799
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_68": 6937922221189319073
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_69": 6653455889469628029
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_7": -1129744928759366710
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_70": 2862374593232538648
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_71": -263941146670088403
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_72": 500842923438616333
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_73": -5075714819231201852
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_74": -4095982676187714790
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_75": -6266123531571909267
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_76": -949741537607721833
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_77": 1248378337190184569
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_78": -3028245776941297309
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_79": -1316837772210001362
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_8": 5769110535255313307
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_80": 6175656943551340486
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_81": 1974253194
+      "Barra de energ\xEDa verde ne\xF3n en p\xEDxeles_9": -9050844534883270028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
