@@ -1,4 +1,4 @@
-using UnityEngine;
+ using UnityEngine;
 
 /// Follows the fish only along the X axis and keeps it near 25% of the screen width,
 /// leaving visual space ahead to anticipate obstacles and see the predator.
