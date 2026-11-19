@@ -1,16 +1,20 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+/// <summary>
 /// Temporary tool for testing core events from a test scene.
+/// </summary>
 public class DebugEventTester : MonoBehaviour
 {
     [SerializeField] private bool enableKeyboardShortcuts = true;
     [SerializeField, Range(0f, 1f)] private float testHealth = 0.5f;
     [SerializeField, Range(0f, 1f)] private float testEnergy = 0.3f;
+    [SerializeField] private float testPredatorDistance = 3f;
 
     private void Update()
     {
         if (!enableKeyboardShortcuts || Keyboard.current == null) return;
+
         if (Keyboard.current.f1Key.wasPressedThisFrame) GameEvents.RaiseHealthChanged(testHealth);
         if (Keyboard.current.f2Key.wasPressedThisFrame) GameEvents.RaiseEnergyChanged(testEnergy);
         if (Keyboard.current.f3Key.wasPressedThisFrame) GameEvents.RaiseInvulnerabilityChanged(true);
@@ -28,6 +32,21 @@ public class DebugEventTester : MonoBehaviour
             };
             GameEvents.RaisePlayerHit(sample);
         }
+
+        // Nuevas teclas para probar el depredador y el HUD de alerta
+        if (Keyboard.current.f6Key.wasPressedThisFrame)
+        {
+            GameEvents.RaisePredatorDangerChanged(true);
+            GameEvents.RaisePredatorDistanceChanged(testPredatorDistance);
+        }
+        if (Keyboard.current.f7Key.wasPressedThisFrame)
+        {
+            GameEvents.RaisePredatorDangerChanged(false);
+        }
+        if (Keyboard.current.f8Key.wasPressedThisFrame)
+        {
+            GameEvents.RaisePredatorBite(1);
+        }
     }
 
     [ContextMenu("Test: publish health at 50%")]
@@ -35,4 +54,10 @@ public class DebugEventTester : MonoBehaviour
 
     [ContextMenu("Test: publish energy at 30%")]
     private void TestEnergyEvent() => GameEvents.RaiseEnergyChanged(0.3f);
+
+    [ContextMenu("Test: trigger predator danger")]
+    private void TestPredatorDangerOn() => GameEvents.RaisePredatorDangerChanged(true);
+
+    [ContextMenu("Test: clear predator danger")]
+    private void TestPredatorDangerOff() => GameEvents.RaisePredatorDangerChanged(false);
 }
