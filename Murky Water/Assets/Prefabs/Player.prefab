@@ -124,15 +124,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8113112215275143153}
-  - component: {fileID: 3187095816257170982}
-  - component: {fileID: 7075857312149173785}
-  - component: {fileID: 2194995323356129323}
-  - component: {fileID: 432186688591655320}
-  - component: {fileID: 5617474830258415229}
-  - component: {fileID: 1062221255781437540}
-  - component: {fileID: 5194492656735235901}
-  - component: {fileID: 6444006277021398312}
-  - component: {fileID: 5479141629769838899}
+  - component: {fileID: 2237637727955233361}
+  - component: {fileID: 5672947841672531106}
+  - component: {fileID: 1600853071991072214}
+  - component: {fileID: 4132315649492022373}
+  - component: {fileID: 6891335607176400718}
+  - component: {fileID: 8331448930581509091}
+  - component: {fileID: 6592534903270325710}
+  - component: {fileID: 6906610562557826245}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -156,7 +155,7 @@ Transform:
   - {fileID: 868750082087794975}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!50 &3187095816257170982
+--- !u!50 &2237637727955233361
 Rigidbody2D:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -183,7 +182,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!61 &7075857312149173785
+--- !u!61 &5672947841672531106
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -229,7 +228,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.4305286, y: 0.99641633}
   m_EdgeRadius: 0
---- !u!82 &2194995323356129323
+--- !u!82 &1600853071991072214
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -326,7 +325,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &432186688591655320
+--- !u!114 &4132315649492022373
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -338,12 +337,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34896d944ff2d5c4f9821a05224abc76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  inputReader: {fileID: 5194492656735235901}
-  energySystem: {fileID: 1062221255781437540}
+  inputReader: {fileID: 6592534903270325710}
+  energySystem: {fileID: 8331448930581509091}
   balanceConfig: {fileID: 11400000, guid: b01648374d5d93d48897999cd6573cfa, type: 2}
-  body: {fileID: 3187095816257170982}
-  playerCollider: {fileID: 7075857312149173785}
---- !u!114 &5617474830258415229
+  body: {fileID: 2237637727955233361}
+  playerCollider: {fileID: 5672947841672531106}
+--- !u!114 &6891335607176400718
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -357,7 +356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::HealthSystem
   balanceConfig: {fileID: 11400000, guid: b01648374d5d93d48897999cd6573cfa, type: 2}
   currentHealthPercent: 100
---- !u!114 &1062221255781437540
+--- !u!114 &8331448930581509091
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -372,7 +371,7 @@ MonoBehaviour:
   balanceConfig: {fileID: 11400000, guid: b01648374d5d93d48897999cd6573cfa, type: 2}
   startingPhase: {fileID: 11400000, guid: 9621b22ffca612f4da63b36c983a44e2, type: 2}
   currentEnergyPercent: 100
---- !u!114 &5194492656735235901
+--- !u!114 &6592534903270325710
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -385,7 +384,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInputReader
   moveAction: {fileID: -1680190386980627800, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
---- !u!114 &6444006277021398312
+--- !u!114 &6906610562557826245
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -397,22 +396,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e93e9197bd64bfb4594e26106a4400f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCollisionHandler
-  healthSystem: {fileID: 5617474830258415229}
-  energySystem: {fileID: 1062221255781437540}
---- !u!114 &5479141629769838899
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9205166217033382634}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b463f18421798b4dabefc7f57b1efb7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FishAnimationController
-  balanceConfig: {fileID: 11400000, guid: b01648374d5d93d48897999cd6573cfa, type: 2}
-  fishAnimator: {fileID: 0}
-  fishSpriteRenderer: {fileID: 2541971944159101906}
-  invulnerabilityFlashColor: {r: 1, g: 1, b: 1, a: 1}
-  reactionDuration: 0.8
+  healthSystem: {fileID: 6891335607176400718}
+  energySystem: {fileID: 8331448930581509091}

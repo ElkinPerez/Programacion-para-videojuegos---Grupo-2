@@ -41,11 +41,7 @@ public class PlayerController : MonoBehaviour
         if (!canMove || balanceConfig == null || body == null) return;
 
         float energy = energySystem != null ? energySystem.NormalizedEnergy : 1f;
-        float energyMultiplier = Mathf.Lerp(
-            Mathf.Max(0.1f, balanceConfig.lowEnergySpeedMultiplier),
-            1f,
-            energy
-        );
+        float energyMultiplier = GetEnergyMultiplier();
         float horizontal = balanceConfig.horizontalBaseSpeed * energyMultiplier;
         float verticalInput = inputReader != null ? inputReader.VerticalInput : 0f;
         float baseVerticalSpeed = verticalInput >= 0f
@@ -58,10 +54,28 @@ public class PlayerController : MonoBehaviour
         Vector2 nextPosition = body.position + new Vector2(horizontal, verticalVelocity) * Time.fixedDeltaTime;
         ClampVerticalPosition(ref nextPosition);
         body.MovePosition(nextPosition);
+        Debug.Log($"energy={energySystem.CurrentEnergyPercent:F0}% speed={horizontal:F2}");
     }
 
     public void SetMovementEnabled(bool enabled) => canMove = enabled;
 
+    /// Horizontal speed after applying the energy multiplier. Read by PredatorController.
+    public float CurrentHorizontalSpeed =>
+        balanceConfig != null ? balanceConfig.horizontalBaseSpeed * GetEnergyMultiplier() : 0f;
+
+    /// 100% energy (or more) = 1x speed. At energySpeedHalfAtPercent or lower = minimumSpeedMultiplier.
+    private float GetEnergyMultiplier()
+    {
+        if (balanceConfig == null) return 1f;
+
+        float energyPercent = energySystem != null ? energySystem.CurrentEnergyPercent : 100f;
+        float t = Mathf.InverseLerp(
+            balanceConfig.energySpeedHalfAtPercent,
+            balanceConfig.energySpeedFullAtPercent,
+            energyPercent);
+
+        return Mathf.Lerp(balanceConfig.minimumSpeedMultiplier, 1f, t);
+    }
     private void ClampVerticalPosition(ref Vector2 position)
     {
         if (PlayAreaBounds.Instance == null) return;

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a72871ad6fc8be64b804a5f4cdae9c57, type: 3}
+  m_Name: SpawnTable_Deterioration
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnTable
+  phase: {fileID: 11400000, guid: 501e91ac2bbf0d84aa7d198998855eb7, type: 2}
+  obstacles:
+  - data: {fileID: 11400000, guid: de3d59ef21084b54d8e7b25903701daa, type: 2}
+    weight: 5
+    zoneUnique: 0
+  - data: {fileID: 11400000, guid: 6c43a7ad84985374f9495be58413e8a7, type: 2}
+    weight: 10
+    zoneUnique: 0
+  - data: {fileID: 11400000, guid: 1155c39d5e37ad04eb4f91adb25f23e0, type: 2}
+    weight: 10
+    zoneUnique: 0
+  - data: {fileID: 11400000, guid: c5645c8b939cf8848bd839acfcca9677, type: 2}
+    weight: 8
+    zoneUnique: 0
+  foodEntries:
+  - prefab: {fileID: 5452141767803600819, guid: 75a2a909fe1a32048b7eb649188d165a, type: 3}
+    weight: 1
+  - prefab: {fileID: 7768917016586641677, guid: 444535ffd6861b747b214687cecd6331, type: 3}
+    weight: 1
+  foodPrefabs: []
+  allowSurfaceLitter: 1
+  litterPerTwentyUnits: 0.2
+  litterEntries: []

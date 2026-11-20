@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 /// Spawn table for ONE zone. Create one asset per zone: Assets > Create > Murky Water > Spawn Table.
@@ -6,6 +7,7 @@ using UnityEngine;
 /// - This table decides WHICH obstacles of each type exist in the zone and how likely each one is.
 ///   Zone-unique obstacles are just extra entries in this table.
 /// - Zone 1: the only lethal entry must be the hook.
+/// - Food also has weights: a higher weight means that food appears more often.
 [CreateAssetMenu(fileName = "SpawnTable", menuName = "Murky Water/Spawn Table")]
 public class SpawnTable : ScriptableObject
 {
@@ -18,6 +20,15 @@ public class SpawnTable : ScriptableObject
         public bool zoneUnique;
     }
 
+    [System.Serializable]
+    public class FoodEntry
+    {
+        [Tooltip("Food prefab (FoodItem).")]
+        public GameObject prefab;
+        [Tooltip("Higher = appears more often. Chance = weight / sum of all food weights. 0 = never.")]
+        [Min(0f)] public float weight = 1f;
+    }
+
     [Header("Zone")]
     [Tooltip("PhaseConfig of this zone. Its range, density, type weights and food spacing are used.")]
     public PhaseConfig phase;
@@ -26,8 +37,12 @@ public class SpawnTable : ScriptableObject
     public ObstacleEntry[] obstacles;
 
     [Header("Food")]
-    [Tooltip("Food prefabs (FoodItem). One recovery value, several different sprites.")]
-    public GameObject[] foodPrefabs;
+    [Tooltip("Food prefabs (FoodItem) with a weight each. Give good food a higher weight so it shows up more.")]
+    public FoodEntry[] foodEntries;
+
+    // Old list (no weights). Kept only so existing assets are not lost: OnValidate moves
+    // its contents into foodEntries with weight 1 and then empties it.
+    [SerializeField, HideInInspector] private GameObject[] foodPrefabs;
 
     [Header("Surface litter (level 2)")]
     public bool allowSurfaceLitter = false;
@@ -61,22 +76,45 @@ public class SpawnTable : ScriptableObject
         return PickFromEntries(litterEntries, null, rng);
     }
 
+    /// Picks a food prefab according to the entry weights.
     public GameObject PickFood(System.Random rng)
     {
-        if (foodPrefabs == null || rng == null) return null;
+        if (rng == null) return null;
 
-        int valid = 0;
-        foreach (GameObject prefab in foodPrefabs)
-            if (prefab != null) valid++;
-        if (valid == 0) return null;
+        float total = FoodWeight();
+        if (total <= 0f) return PickLegacyFood(rng);
 
-        int target = rng.Next(valid);
-        foreach (GameObject prefab in foodPrefabs)
+        double roll = rng.NextDouble() * total;
+        GameObject last = null;
+        foreach (FoodEntry entry in foodEntries)
         {
-            if (prefab == null) continue;
-            if (target-- == 0) return prefab;
+            if (entry == null || entry.prefab == null || entry.weight <= 0f) continue;
+
+            last = entry.prefab;
+            if (roll < entry.weight) return entry.prefab;
+            roll -= entry.weight;
         }
-        return null;
+        return last;
+    }
+
+    /// Every food prefab of this table (used by ObstacleSpawner to warm up the pool).
+    public GameObject[] GetAllFoodPrefabs()
+    {
+        List<GameObject> list = new List<GameObject>();
+
+        if (foodEntries != null)
+        {
+            foreach (FoodEntry entry in foodEntries)
+                if (entry != null && entry.prefab != null) list.Add(entry.prefab);
+        }
+
+        if (foodPrefabs != null)
+        {
+            foreach (GameObject prefab in foodPrefabs)
+                if (prefab != null && !list.Contains(prefab)) list.Add(prefab);
+        }
+
+        return list.ToArray();
     }
 
     /// Distance between foods in this zone (GDD: 40 / 28 / 21 / 17 u).
@@ -98,6 +136,37 @@ public class SpawnTable : ScriptableObject
     private float TypeWeight(ObstacleType type, float zoneWeight)
     {
         return EntriesWeight(obstacles, type) > 0f ? Mathf.Max(0f, zoneWeight) : 0f;
+    }
+
+    private float FoodWeight()
+    {
+        if (foodEntries == null) return 0f;
+        float sum = 0f;
+        foreach (FoodEntry entry in foodEntries)
+        {
+            if (entry == null || entry.prefab == null || entry.weight <= 0f) continue;
+            sum += entry.weight;
+        }
+        return sum;
+    }
+
+    // Fallback for assets that still have the old list and were not migrated yet: uniform random.
+    private GameObject PickLegacyFood(System.Random rng)
+    {
+        if (foodPrefabs == null) return null;
+
+        int valid = 0;
+        foreach (GameObject prefab in foodPrefabs)
+            if (prefab != null) valid++;
+        if (valid == 0) return null;
+
+        int target = rng.Next(valid);
+        foreach (GameObject prefab in foodPrefabs)
+        {
+            if (prefab == null) continue;
+            if (target-- == 0) return prefab;
+        }
+        return null;
     }
 
     private static float EntriesWeight(ObstacleEntry[] entries, ObstacleType? type)
@@ -136,6 +205,8 @@ public class SpawnTable : ScriptableObject
     {
         litterPerTwentyUnits = Mathf.Max(0f, litterPerTwentyUnits);
 
+        MigrateOldFoodList();
+
         // GDD: in zone 1 the only lethal obstacle is the hook.
         if (obstacles == null || phase == null || phase.phaseNumber != 1) return;
         ObstacleData firstLethal = null;
@@ -149,5 +220,27 @@ public class SpawnTable : ScriptableObject
                 break;
             }
         }
+    }
+
+    // Moves the old unweighted list into foodEntries (weight 1) once, keeping the assigned prefabs.
+    private void MigrateOldFoodList()
+    {
+        if (foodPrefabs == null || foodPrefabs.Length == 0) return;
+
+        List<FoodEntry> migrated = new List<FoodEntry>();
+        if (foodEntries != null) migrated.AddRange(foodEntries);
+
+        foreach (GameObject prefab in foodPrefabs)
+        {
+            if (prefab == null) continue;
+            migrated.Add(new FoodEntry { prefab = prefab, weight = 1f });
+        }
+
+        foodEntries = migrated.ToArray();
+        foodPrefabs = new GameObject[0];
+
+#if UNITY_EDITOR
+        UnityEditor.EditorUtility.SetDirty(this);
+#endif
     }
 }

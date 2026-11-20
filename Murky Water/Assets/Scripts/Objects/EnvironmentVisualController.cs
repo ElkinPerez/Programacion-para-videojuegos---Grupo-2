@@ -1,12 +1,16 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 /// Gradually blends backgrounds, tint color and particles when the pollution zone changes.
 /// Listens to GameEvents.OnPhaseChanged and matches each zone through PhaseConfig.phaseNumber.
 /// The blend lasts blendSeconds (GDD: about 5 s). The first phase received is applied instantly.
 ///
-/// Setup: one ZoneVisual per zone. Put each zone's background SpriteRenderers on a higher
+/// Setup: one ZoneVisual per zone. Put each zone's background groups on a higher
 /// Sorting Order than the previous zone so the crossfade reads correctly.
+/// Each zone takes GROUPS (GameObjects): every SpriteRenderer inside them (children included)
+/// is found automatically and blended. Particle systems inside the groups (e.g., bubbles)
+/// are also found: their emission fades with the zone and their renderer is hidden at weight 0.
 public class EnvironmentVisualController : MonoBehaviour
 {
     [System.Serializable]
@@ -14,12 +18,76 @@ public class EnvironmentVisualController : MonoBehaviour
     {
         public string label = "Zone";
         [Min(1)] public int phaseNumber = 1;
-        [Tooltip("Background sprites of this zone; their alpha is blended.")]
-        public SpriteRenderer[] backgroundLayers;
+        [Tooltip("Background groups of this zone. All SpriteRenderers and ParticleSystems inside (children included) are blended.")]
+        public GameObject[] backgroundGroups;
         [Tooltip("Water tint. The alpha channel controls how strong the tint is.")]
         public Color waterTint = new Color(0f, 0f, 0f, 0f);
         public Color cameraBackground = new Color(0.05f, 0.2f, 0.4f, 1f);
         [Min(0f)] public float particleRate = 5f;
+
+        [System.NonSerialized] private SpriteRenderer[] renderers;
+        [System.NonSerialized] private float[] baseAlpha;
+        [System.NonSerialized] private ParticleSystem[] particles;
+        [System.NonSerialized] private ParticleSystemRenderer[] particleRenderers;
+        [System.NonSerialized] private float[] baseEmission;
+
+        /// Finds every SpriteRenderer and ParticleSystem inside the groups and remembers
+        /// their original alpha / emission.
+        public void CacheRenderers()
+        {
+            List<SpriteRenderer> found = new List<SpriteRenderer>();
+            List<ParticleSystem> foundParticles = new List<ParticleSystem>();
+            if (backgroundGroups != null)
+            {
+                foreach (GameObject group in backgroundGroups)
+                {
+                    if (group == null) continue;
+                    found.AddRange(group.GetComponentsInChildren<SpriteRenderer>(true));
+                    foundParticles.AddRange(group.GetComponentsInChildren<ParticleSystem>(true));
+                }
+            }
+
+            renderers = found.ToArray();
+            baseAlpha = new float[renderers.Length];
+            for (int i = 0; i < renderers.Length; i++)
+                baseAlpha[i] = renderers[i].color.a;
+
+            // Particle systems inside the groups (e.g., bubbles): remember their original emission.
+            particles = foundParticles.ToArray();
+            particleRenderers = new ParticleSystemRenderer[particles.Length];
+            baseEmission = new float[particles.Length];
+            for (int i = 0; i < particles.Length; i++)
+            {
+                particleRenderers[i] = particles[i].GetComponent<ParticleSystemRenderer>();
+                baseEmission[i] = particles[i].emission.rateOverTimeMultiplier;
+            }
+        }
+
+        /// Sets the zone's opacity (0-1), multiplied by each sprite's original alpha.
+        public void SetOpacity(float opacity)
+        {
+            if (renderers == null) CacheRenderers();
+
+            for (int i = 0; i < renderers.Length; i++)
+            {
+                if (renderers[i] == null) continue;
+                Color c = renderers[i].color;
+                c.a = baseAlpha[i] * opacity;
+                renderers[i].color = c;
+            }
+
+            // Particles: fade by emitting less, and hide the renderer once the zone is fully out.
+            for (int i = 0; i < particles.Length; i++)
+            {
+                if (particles[i] == null) continue;
+
+                ParticleSystem.EmissionModule emission = particles[i].emission;
+                emission.rateOverTimeMultiplier = baseEmission[i] * opacity;
+
+                if (particleRenderers[i] != null)
+                    particleRenderers[i].enabled = opacity > 0.001f;
+            }
+        }
     }
 
     [SerializeField] private ZoneVisual[] zones = new ZoneVisual[4];
@@ -30,6 +98,7 @@ public class EnvironmentVisualController : MonoBehaviour
     [SerializeField] private SpriteRenderer tintOverlay;
     [Tooltip("The camera needs Clear Flags = Solid Color for the background color to show.")]
     [SerializeField] private Camera targetCamera;
+    [Tooltip("Global pollution particles only. Do NOT put particles that live inside a zone group here.")]
     [SerializeField] private ParticleSystem[] pollutionParticles;
 
     private float[] weights;
@@ -40,6 +109,12 @@ public class EnvironmentVisualController : MonoBehaviour
     {
         if (targetCamera == null) targetCamera = Camera.main;
         weights = new float[zones != null ? zones.Length : 0];
+
+        // Find the SpriteRenderers and ParticleSystems of every group once
+        // (call CacheRenderers again if children are added later).
+        if (zones != null)
+            foreach (ZoneVisual zone in zones)
+                if (zone != null) zone.CacheRenderers();
     }
 
     private void OnEnable() => GameEvents.OnPhaseChanged += HandlePhaseChanged;
@@ -122,16 +197,8 @@ public class EnvironmentVisualController : MonoBehaviour
             if (zone == null) continue;
             float w = weights[i];
 
-            if (zone.backgroundLayers != null)
-            {
-                foreach (SpriteRenderer layer in zone.backgroundLayers)
-                {
-                    if (layer == null) continue;
-                    Color c = layer.color;
-                    c.a = w;
-                    layer.color = c;
-                }
-            }
+            // Alpha and particle emission only (the groups stay active so ParallaxLayer tiling keeps working).
+            zone.SetOpacity(w);
 
             tint += zone.waterTint * w;
             background += zone.cameraBackground * w;

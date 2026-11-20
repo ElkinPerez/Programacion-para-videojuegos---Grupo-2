@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8d4a355fefe96b4a96235a0ab676139, type: 3}
   m_Name: Deterioration
   m_EditorClassIdentifier: Assembly-CSharp::PhaseConfig
-  phaseNumber: 1
+  phaseNumber: 2
   phaseName: Deterioration
   startProgress: 0.2
   endProgress: 0.5
-  energyDrainPercentPerSecond: 3
-  predatorSpeed: 1.5
-  obstaclesPerTwentyUnits: 1
+  energyDrainPercentPerSecond: 2
+  predatorSpeed: 6
+  obstaclesPerTwentyUnits: 2
   energyObstacleWeight: 0.7
   dangerObstacleWeight: 0.2
   lethalObstacleWeight: 0.1
-  foodSpacing: 40
+  foodSpacing: 20
   notes: 

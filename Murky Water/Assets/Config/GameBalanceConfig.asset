@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f9362231e08c3a42821e91e5a550bea, type: 3}
   m_Name: GameBalanceConfig
   m_EditorClassIdentifier: Assembly-CSharp::GameBalanceConfig
-  totalRunDistance: 900
-  targetRunDurationSeconds: 180
+  totalRunDistance: 1800
+  targetRunDurationSeconds: 360
   horizontalBaseSpeed: 10
   verticalUpBaseSpeed: 5
   verticalUpMaxSpeed: 8
@@ -45,10 +45,10 @@ MonoBehaviour:
   predatorRetreatDuration: 1
   minimumObstacleHorizontalSpacing: 4
   minimumVerticalGapFishHeights: 2.5
-  foodSpawnSpacingZone1: 40
-  foodSpawnSpacingZone2: 28
-  foodSpawnSpacingZone3: 21
-  foodSpawnSpacingZone4: 17
+  foodSpawnSpacingZone1: 28
+  foodSpawnSpacingZone2: 25
+  foodSpawnSpacingZone3: 20
+  foodSpawnSpacingZone4: 15
   playerScreenHorizontalAnchor: 0.25
   cameraFollowSmoothTime: 0.2
   cameraShakeDuration: 0.2

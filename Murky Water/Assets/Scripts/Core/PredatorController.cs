@@ -16,6 +16,7 @@ public class PredatorController : MonoBehaviour
 
     [Header("Optional Settings")]
     [SerializeField, Min(0f)] private float verticalFollowSpeed = 3f;
+    [SerializeField, Min(0f)] private float maxDistanceToPlayer = 25f;
 
     [Header("Bite Point")]
     [SerializeField] private float mouthOffsetX = 1.5f;
@@ -27,6 +28,7 @@ public class PredatorController : MonoBehaviour
     private bool isPlaying;
     private bool retreating;
     private Coroutine retreatRoutine;
+    private PlayerController playerController;
 
     public float DistanceToPlayer => distanceToPlayer;
     public int BiteCount => biteCount;
@@ -38,6 +40,8 @@ public class PredatorController : MonoBehaviour
             PlayerController controller = FindAnyObjectByType<PlayerController>();
             if (controller != null) player = controller.transform;
         }
+
+        if (player != null) playerController = player.GetComponent<PlayerController>();
 
         if (player != null && playerCollision == null)
             playerCollision = player.GetComponent<PlayerCollisionHandler>();
@@ -76,8 +80,11 @@ public class PredatorController : MonoBehaviour
 
         if (!retreating)
         {
-            float speed = currentPhase != null ? currentPhase.predatorSpeed : 3.5f;
-            distanceToPlayer = Mathf.MoveTowards(distanceToPlayer, 0f, speed * Time.deltaTime);
+            float predatorSpeed = currentPhase != null ? currentPhase.predatorSpeed : 3.5f;
+            float playerSpeed = playerController != null ? playerController.CurrentHorizontalSpeed : 0f;
+            distanceToPlayer = Mathf.Clamp(
+                distanceToPlayer + (playerSpeed - predatorSpeed) * Time.deltaTime,
+                0f, maxDistanceToPlayer);
 
             float distanceFromMouth = distanceToPlayer - mouthOffsetX;
 
@@ -86,6 +93,7 @@ public class PredatorController : MonoBehaviour
                 Bite();
                 return;
             }
+            Debug.Log($"fish={playerSpeed:F2} predator={predatorSpeed:F2} dist={distanceToPlayer:F2}");
         }
 
         PlaceBehindPlayer();
