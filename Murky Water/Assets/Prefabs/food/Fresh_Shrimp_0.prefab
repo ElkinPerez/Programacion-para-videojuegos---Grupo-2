@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1958168468783291251}
   - component: {fileID: 1651315816570062629}
+  - component: {fileID: 2472648660598335307}
+  - component: {fileID: 196934725399887834}
   m_Layer: 0
   m_Name: Fresh_Shrimp_0
   m_TagString: Untagged
@@ -25,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7768917016586641677}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 54.08849, y: -6.32019, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -79,7 +81,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2754754782809440710, guid: 6d82049a016315a41a66f2402e196600, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -92,3 +94,70 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &2472648660598335307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7768917016586641677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92321dad232d5154d858d217d6a731cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodItem
+  balanceConfig: {fileID: 11400000, guid: b01648374d5d93d48897999cd6573cfa, type: 2}
+  startsContaminated: 0
+  contaminatedEnergyDamagePercent: -1
+  spriteRenderer: {fileID: 1651315816570062629}
+  healthySprite: {fileID: -2754754782809440710, guid: 6d82049a016315a41a66f2402e196600, type: 3}
+  contaminatedSprite: {fileID: 8011580652570250667, guid: 46dc005859536444183f0cd9da09662c, type: 3}
+  healthyTint: {r: 1, g: 1, b: 1, a: 1}
+  contaminatedTint: {r: 0.55, g: 0.4, b: 0.2, a: 1}
+  collectParticlesPrefab: {fileID: 0}
+--- !u!61 &196934725399887834
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7768917016586641677}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.11078501, y: 0.11078489}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.8466666, y: 2.7666667}
+    newSize: {x: 8.54, y: 8.3}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1.7388182, y: 1.7854292}
+  m_EdgeRadius: 0

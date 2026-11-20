@@ -1,18 +1,15 @@
 using UnityEngine;
 
-/// Single script for every obstacle. All its behavior comes from an ObstacleData asset.
-/// On contact it builds a HitData and sends it to PlayerCollisionHandler.ApplyHit exactly once.
-/// Contact detection: PlayerCollisionHandler calls IPlayerInteractable.OnPlayerContact
-/// when the fish enters this object's collider (it is forced to be a trigger).
-///
-/// Prefab: SpriteRenderer + BoxCollider2D + Obstacle. ObstacleSpawner calls Initialize(...) after taking it from the pool.
-[RequireComponent(typeof(BoxCollider2D))]
+/// Obstacle behavior driven by an ObstacleData asset.
+/// Can live on the root of an obstacle prefab OR on child parts (e.g., rope = Danger, hook = Lethal).
+/// On contact it builds a HitData and sends it to PlayerCollisionHandler.ApplyHit once per activation.
+[RequireComponent(typeof(Collider2D))]
 public class Obstacle : MonoBehaviour, IPlayerInteractable
 {
     [SerializeField] private GameBalanceConfig balanceConfig;
     [SerializeField] private ObstacleData data;
     [SerializeField] private SpriteRenderer spriteRenderer;
-    [SerializeField] private BoxCollider2D hitbox;
+    [SerializeField] private Collider2D hitbox;
 
     [Tooltip("GDD: invulnerability protects against the lethal obstacle. If ON, a lethal hit during " +
              "invulnerability is ignored (the obstacle is used up and the fish passes through).")]
@@ -25,9 +22,9 @@ public class Obstacle : MonoBehaviour, IPlayerInteractable
 
     private void Awake()
     {
-        if (spriteRenderer == null) spriteRenderer = GetComponentInChildren<SpriteRenderer>();
-        if (hitbox == null) hitbox = GetComponent<BoxCollider2D>();
-        hitbox.isTrigger = true;
+        if (spriteRenderer == null) spriteRenderer = GetComponent<SpriteRenderer>();
+        if (hitbox == null) hitbox = GetComponent<Collider2D>();
+        if (hitbox != null) hitbox.isTrigger = true;
         ApplyData();
     }
 
@@ -37,7 +34,7 @@ public class Obstacle : MonoBehaviour, IPlayerInteractable
     /// Configures this instance with an obstacle of the catalog.
     public void Initialize(ObstacleData newData, GameBalanceConfig config = null)
     {
-        data = newData;
+        if (newData != null) data = newData;
         if (config != null) balanceConfig = config;
         hasHit = false;
         ApplyData();
@@ -51,6 +48,12 @@ public class Obstacle : MonoBehaviour, IPlayerInteractable
     /// World-space rectangle covered by the hitbox (assumes scale 1).
     public Rect GetFootprint()
     {
+        if (hitbox != null && (data == null || data.prefab != null))
+        {
+            Bounds b = hitbox.bounds;
+            return new Rect(b.min, b.size);
+        }
+
         Vector2 size = data != null ? data.hitboxSize : Vector2.one;
         Vector2 offset = data != null ? data.hitboxOffset : Vector2.zero;
         Vector2 center = (Vector2)transform.position + offset;
@@ -70,7 +73,7 @@ public class Obstacle : MonoBehaviour, IPlayerInteractable
             return;
         }
 
-        hasHit = true; // a single hit per obstacle, even if the fish keeps crossing it
+        hasHit = true; // a single hit per obstacle/part, even if the fish keeps crossing it
         player.ApplyHit(hit);
     }
 
@@ -78,7 +81,10 @@ public class Obstacle : MonoBehaviour, IPlayerInteractable
     {
         if (data == null) return;
 
-        if (spriteRenderer != null)
+        // When using a dedicated prefab, keep the prefab's own visuals, animator and collider setup.
+        bool usesDedicatedPrefab = data.prefab != null;
+
+        if (!usesDedicatedPrefab && spriteRenderer != null)
         {
             spriteRenderer.sprite = data.sprite;
             spriteRenderer.sortingOrder = data.sortingOrder;
@@ -86,8 +92,11 @@ public class Obstacle : MonoBehaviour, IPlayerInteractable
 
         if (hitbox != null)
         {
-            hitbox.size = data.hitboxSize;
-            hitbox.offset = data.hitboxOffset;
+            if (!usesDedicatedPrefab && hitbox is BoxCollider2D box)
+            {
+                box.size = data.hitboxSize;
+                box.offset = data.hitboxOffset;
+            }
             hitbox.isTrigger = true;
             hitbox.enabled = true;
         }

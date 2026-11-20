@@ -147,7 +147,7 @@ public class GameManager : MonoBehaviour
 
     private void HandleEnergyChanged(float normalized)
     {
-        if (normalized <= 0f) RegisterDeath(DeathCause.Energy);
+        //if (normalized <= 0f) RegisterDeath(DeathCause.Energy);
     }
 
     private void SetState(GameState state)

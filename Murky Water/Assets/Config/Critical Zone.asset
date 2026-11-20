@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8d4a355fefe96b4a96235a0ab676139, type: 3}
   m_Name: Critical Zone
   m_EditorClassIdentifier: Assembly-CSharp::PhaseConfig
-  phaseNumber: 1
+  phaseNumber: 4
   phaseName: Critic_Zone
   startProgress: 0.8
   endProgress: 1
-  energyDrainPercentPerSecond: 5
-  predatorSpeed: 2
-  obstaclesPerTwentyUnits: 1
+  energyDrainPercentPerSecond: 3
+  predatorSpeed: 6.8
+  obstaclesPerTwentyUnits: 4
   energyObstacleWeight: 0.7
   dangerObstacleWeight: 0.2
   lethalObstacleWeight: 0.1
-  foodSpacing: 40
+  foodSpacing: 28
   notes: 

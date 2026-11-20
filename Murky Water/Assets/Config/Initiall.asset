@@ -17,10 +17,10 @@ MonoBehaviour:
   startProgress: 0
   endProgress: 0.2
   energyDrainPercentPerSecond: 2
-  predatorSpeed: 1
+  predatorSpeed: 5.5
   obstaclesPerTwentyUnits: 1
   energyObstacleWeight: 0.7
   dangerObstacleWeight: 0.2
   lethalObstacleWeight: 0.1
-  foodSpacing: 40
+  foodSpacing: 20
   notes: 

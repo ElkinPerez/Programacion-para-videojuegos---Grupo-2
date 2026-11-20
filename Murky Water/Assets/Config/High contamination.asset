@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8d4a355fefe96b4a96235a0ab676139, type: 3}
   m_Name: High contamination
   m_EditorClassIdentifier: Assembly-CSharp::PhaseConfig
-  phaseNumber: 1
+  phaseNumber: 3
   phaseName: High_Contamination
   startProgress: 0.5
   endProgress: 0.8
-  energyDrainPercentPerSecond: 4
-  predatorSpeed: 1.5
-  obstaclesPerTwentyUnits: 1
+  energyDrainPercentPerSecond: 2.5
+  predatorSpeed: 6.5
+  obstaclesPerTwentyUnits: 3
   energyObstacleWeight: 0.7
   dangerObstacleWeight: 0.2
   lethalObstacleWeight: 0.1
-  foodSpacing: 40
+  foodSpacing: 25
   notes: 

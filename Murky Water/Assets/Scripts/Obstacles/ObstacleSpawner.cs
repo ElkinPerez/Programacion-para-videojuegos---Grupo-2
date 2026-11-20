@@ -24,7 +24,7 @@ public class ObstacleSpawner : MonoBehaviour
     [SerializeField] private Camera targetCamera;
 
     [Header("Prefabs and tables")]
-    [Tooltip("Generic prefab with Obstacle (+ SpriteRenderer + BoxCollider2D).")]
+    [Tooltip("Fallback prefab when an ObstacleData does not assign its own prefab.")]
     [SerializeField] private GameObject obstaclePrefab;
     [Tooltip("One SpawnTable per zone. Each one points to its PhaseConfig.")]
     [SerializeField] private SpawnTable[] tables = new SpawnTable[4];
@@ -94,7 +94,8 @@ public class ObstacleSpawner : MonoBehaviour
         if (balanceConfig == null) Debug.LogWarning("ObstacleSpawner: assign GameBalanceConfig.", this);
         if (pool == null) Debug.LogError("ObstacleSpawner: an ObjectPool is required.", this);
         if (rules == null) Debug.LogError("ObstacleSpawner: a SpawnFairnessRules is required.", this);
-        if (obstaclePrefab == null) Debug.LogError("ObstacleSpawner: assign the obstacle prefab.", this);
+        if (obstaclePrefab == null && !HasAnyDataPrefab())
+            Debug.LogWarning("ObstacleSpawner: assign a fallback obstaclePrefab or set prefab on each ObstacleData.", this);
 
         Prewarm();
     }
@@ -263,7 +264,8 @@ public class ObstacleSpawner : MonoBehaviour
 
     private bool TrySpawnObstacle(ObstacleData data, float centerX)
     {
-        if (obstaclePrefab == null) return false;
+        GameObject targetPrefab = data.GetEffectivePrefab(obstaclePrefab);
+        if (targetPrefab == null) return false;
 
         Vector2 size = data.hitboxSize;
         if (!rules.TryPickObstacleCenterY(Rng, centerX, size, out float centerY))
@@ -273,21 +275,33 @@ public class ObstacleSpawner : MonoBehaviour
             return false;
         }
 
-        Vector3 position = new Vector3(centerX - data.hitboxOffset.x, centerY - data.hitboxOffset.y,
-            obstaclePrefab.transform.position.z);
+        Vector2 offset = data.prefab != null ? Vector2.zero : data.hitboxOffset;
+        Vector3 position = new Vector3(centerX - offset.x, centerY - offset.y,
+            targetPrefab.transform.position.z);
 
-        GameObject instance = pool.Get(obstaclePrefab, position, Quaternion.identity);
+        GameObject instance = pool.Get(targetPrefab, position, Quaternion.identity);
         if (instance == null) return false;
 
-        Obstacle obstacle = instance.GetComponent<Obstacle>();
-        if (obstacle == null)
+        Obstacle[] obstacles = instance.GetComponentsInChildren<Obstacle>();
+        if (obstacles == null || obstacles.Length == 0)
         {
-            Debug.LogError("ObstacleSpawner: the obstacle prefab needs the Obstacle component.", this);
+            Debug.LogError($"ObstacleSpawner: prefab '{targetPrefab.name}' needs at least one Obstacle component.", this);
             pool.Release(instance);
             return false;
         }
 
-        obstacle.Initialize(data, balanceConfig);
+        // If only one Obstacle is present, bind it to 'data'; if multiple child Obstacles exist
+        // (e.g., rope + hook), each child can keep its own ObstacleData or receive 'data' if unassigned.
+        if (obstacles.Length == 1)
+        {
+            obstacles[0].Initialize(data, balanceConfig);
+        }
+        else
+        {
+            foreach (Obstacle childObstacle in obstacles)
+                childObstacle.Initialize(childObstacle.Data != null ? childObstacle.Data : data, balanceConfig);
+        }
+
         rules.RegisterBlocked(new Rect(centerX - size.x * 0.5f, centerY - size.y * 0.5f, size.x, size.y));
         active.Add(new Spawned { go = instance, halfWidth = size.x * 0.5f });
         return true;
@@ -370,10 +384,23 @@ public class ObstacleSpawner : MonoBehaviour
         pool.Prewarm(obstaclePrefab, prewarmObstacles);
         foreach (SpawnTable table in tables)
         {
-            if (table == null || table.foodPrefabs == null) continue;
-            foreach (GameObject food in table.foodPrefabs)
+            if (table == null) continue;
+            foreach (GameObject food in table.GetAllFoodPrefabs())
                 pool.Prewarm(food, prewarmFoodPerPrefab);
         }
+    }
+
+    private bool HasAnyDataPrefab()
+    {
+        if (tables == null) return false;
+        foreach (SpawnTable table in tables)
+        {
+            if (table == null || table.obstacles == null) continue;
+            foreach (SpawnTable.ObstacleEntry entry in table.obstacles)
+                if (entry != null && entry.data != null && entry.data.prefab != null)
+                    return true;
+        }
+        return false;
     }
 
     // ---------- Helpers ----------

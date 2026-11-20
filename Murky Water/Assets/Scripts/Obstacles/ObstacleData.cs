@@ -10,20 +10,28 @@ public enum ObstacleType
 
 /// Data for one obstacle of the catalog. Create one asset per obstacle:
 /// Assets > Create > Murky Water > Obstacle Data.
-/// The generic Obstacle prefab reads everything from here (sprite, hitbox and hit values).
+/// Can reference a dedicated prefab (with its own colliders, animations or child parts)
+/// or fall back to the generic prefab + sprite/hitbox fields.
 [CreateAssetMenu(fileName = "ObstacleData", menuName = "Murky Water/Obstacle Data")]
 public class ObstacleData : ScriptableObject
 {
     [Header("Identity")]
     public string displayName = "Obstacle";
     public ObstacleType type = ObstacleType.Danger;
+
+    [Tooltip("Dedicated prefab for this obstacle. If empty, uses ObstacleSpawner's generic prefab + sprite.")]
+    public GameObject prefab;
+
+    [Tooltip("Used when 'prefab' is empty (generic prefab mode).")]
     public Sprite sprite;
+    [Tooltip("Used when 'prefab' is empty (generic prefab mode).")]
     public int sortingOrder = 0;
 
-    [Header("Hitbox (world units)")]
-    [Tooltip("Collider size in Unity units. Also used by the fairness rules.")]
+    [Header("Hitbox / Bounds (world units)")]
+    [Tooltip("Used by fairness rules and spacing. If 'prefab' is assigned, configure colliders on the prefab " +
+             "and keep this size matching its occupied bounds.")]
     public Vector2 hitboxSize = new Vector2(1f, 1f);
-    [Tooltip("Collider offset from the object's pivot.")]
+    [Tooltip("Used when 'prefab' is empty. If 'prefab' is assigned, position colliders directly on the prefab.")]
     public Vector2 hitboxOffset = Vector2.zero;
 
     [Header("Hit values")]
@@ -36,6 +44,8 @@ public class ObstacleData : ScriptableObject
 
     [Tooltip("Free notes for the catalog (zones, behavior, etc.).")]
     [TextArea] public string notes;
+
+    public GameObject GetEffectivePrefab(GameObject fallbackPrefab) => prefab != null ? prefab : fallbackPrefab;
 
     private void OnValidate()
     {

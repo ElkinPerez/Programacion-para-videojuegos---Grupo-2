@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 4374480021729082745}
   - component: {fileID: 6725610962922018924}
   - component: {fileID: 6944672376437086331}
+  - component: {fileID: 1818840688917533511}
+  - component: {fileID: 2487044272423105283}
   m_Layer: 0
   m_Name: Fishhook
   m_TagString: Untagged
@@ -115,3 +117,57 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!70 &1818840688917533511
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526690028303836666}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: -0.24280865}
+  m_Size: {x: 0.9016863, y: 1.0802809}
+  m_Direction: 0
+--- !u!114 &2487044272423105283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526690028303836666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0250133eb06e43741bd7ae74a5fb1088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+  balanceConfig: {fileID: 11400000, guid: b01648374d5d93d48897999cd6573cfa, type: 2}
+  data: {fileID: 11400000, guid: de3d59ef21084b54d8e7b25903701daa, type: 2}
+  spriteRenderer: {fileID: 6725610962922018924}
+  hitbox: {fileID: 1818840688917533511}
+  lethalRespectsInvulnerability: 1
