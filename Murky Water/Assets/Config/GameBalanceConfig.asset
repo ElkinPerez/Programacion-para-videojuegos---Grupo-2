@@ -39,7 +39,7 @@ MonoBehaviour:
   energyObstacleVisionIntensity: 0.5
   predatorInitialDistance: 25
   predatorBiteDistance: 1
-  predatorDangerDistance: 5
+  predatorDangerDistance: 18
   firstBiteLifeDamagePercent: 50
   predatorRetreatDistance: 20
   predatorRetreatDuration: 1
