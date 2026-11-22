@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 8331448930581509091}
   - component: {fileID: 6592534903270325710}
   - component: {fileID: 6906610562557826245}
+  - component: {fileID: 7498170893126843317}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -216,7 +217,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.72472286, y: -0.3498069}
+  m_Offset: {x: -0.70423126, y: -0.3498069}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -226,7 +227,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.4305286, y: 0.99641633}
+  m_Size: {x: 1.2032623, y: 0.99641633}
   m_EdgeRadius: 0
 --- !u!82 &1600853071991072214
 AudioSource:
@@ -249,7 +250,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 1.0074501
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -398,3 +399,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCollisionHandler
   healthSystem: {fileID: 6891335607176400718}
   energySystem: {fileID: 8331448930581509091}
+--- !u!114 &7498170893126843317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9205166217033382634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b463f18421798b4dabefc7f57b1efb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FishAnimationController
+  balanceConfig: {fileID: 11400000, guid: b01648374d5d93d48897999cd6573cfa, type: 2}
+  fishAnimator: {fileID: 1707189654750909402}
+  fishSpriteRenderer: {fileID: 2541971944159101906}
+  fishBody: {fileID: 0}
+  invulnerabilityFlashColor: {r: 1, g: 1, b: 1, a: 1}
+  reactionDuration: 0.8
+  verticalSmoothing: 15

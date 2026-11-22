@@ -51,9 +51,8 @@ public class EnergySystem : MonoBehaviour
 
     public void RecoverPercent(float percent)
     {
-        if (percent > 0f && currentEnergyPercent > 0f) ModifyEnergy(percent);
+        if (percent > 0f) ModifyEnergy(percent);
     }
-
     public void ResetEnergy()
     {
         currentEnergyPercent = balanceConfig != null ? balanceConfig.startingEnergyPercent : 100f;
