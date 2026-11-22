@@ -8,6 +8,8 @@ using UnityEngine;
 /// Prefab: Obstacle + FallingDebris + BoxCollider2D (trigger) + Rigidbody2D.
 /// The Rigidbody2D is forced to Kinematic. Put the prefab on the layer that ContaminableFood
 /// (Nevys) lists as a contaminant: falling debris contaminates the food it touches.
+/// Sounds: the warning and the landing play here. The hit against the fish already sounds in
+/// FishAudioController (hitDanger / hitEnergy), so it is not repeated.
 [RequireComponent(typeof(Obstacle))]
 [RequireComponent(typeof(Rigidbody2D))]
 public class FallingDebris : MonoBehaviour
@@ -20,6 +22,14 @@ public class FallingDebris : MonoBehaviour
     [SerializeField] private GameObject warningIndicator;
     [Tooltip("When this far behind the camera's left edge, it goes back to the pool.")]
     [SerializeField, Min(0f)] private float cleanupMargin = 6f;
+
+    [Header("Sound")]
+    [Tooltip("Plays when the warning starts (debris about to fall). Optional.")]
+    [SerializeField] private SfxEntry warningSfx;
+    [Tooltip("Plays when it lands on the seabed. Optional.")]
+    [SerializeField] private SfxEntry landSfx;
+    [Tooltip("Optional AudioSource on this prefab. Empty = AudioManager's SFX source is used.")]
+    [SerializeField] private AudioSource ownSource;
 
     private State state = State.Resting;
     private ObjectPool pool;
@@ -59,6 +69,7 @@ public class FallingDebris : MonoBehaviour
         state = State.Warning;
         obstacle.SetCollisionEnabled(false);
         if (warningIndicator != null) warningIndicator.SetActive(true);
+        PlaySfx(warningSfx);
     }
 
     private void Update()
@@ -87,7 +98,21 @@ public class FallingDebris : MonoBehaviour
         position.y = Mathf.MoveTowards(position.y, restY, fallSpeed * Time.fixedDeltaTime);
         body.MovePosition(position);
 
-        if (Mathf.Approximately(position.y, restY)) state = State.Resting;
+        if (Mathf.Approximately(position.y, restY))
+        {
+            state = State.Resting;
+            PlaySfx(landSfx);
+        }
+    }
+
+    // Uses this prefab's own AudioSource if assigned, otherwise AudioManager's SFX source
+    // (a prefab cannot reference scene objects, so it is found at runtime).
+    private void PlaySfx(SfxEntry entry)
+    {
+        if (entry == null) return;
+
+        if (ownSource != null) entry.PlayOn(ownSource, true);
+        else if (AudioManager.Instance != null) entry.PlayOn(AudioManager.Instance.sfxSource, false);
     }
 
     private void DespawnIfBehindCamera()

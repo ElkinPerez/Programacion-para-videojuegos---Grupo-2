@@ -54,7 +54,6 @@ public class PlayerController : MonoBehaviour
         Vector2 nextPosition = body.position + new Vector2(horizontal, verticalVelocity) * Time.fixedDeltaTime;
         ClampVerticalPosition(ref nextPosition);
         body.MovePosition(nextPosition);
-        Debug.Log($"energy={energySystem.CurrentEnergyPercent:F0}% speed={horizontal:F2}");
     }
 
     public void SetMovementEnabled(bool enabled) => canMove = enabled;
