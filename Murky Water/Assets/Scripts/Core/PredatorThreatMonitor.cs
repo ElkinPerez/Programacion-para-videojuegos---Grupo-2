@@ -24,7 +24,6 @@ public class PredatorThreatMonitor : MonoBehaviour
             PredatorController controller = FindAnyObjectByType<PredatorController>();
             if (controller != null) predator = controller.transform;
         }
-
         if (balanceConfig == null)
             Debug.LogWarning("PredatorThreatMonitor: assign GameBalanceConfig.", this);
     }

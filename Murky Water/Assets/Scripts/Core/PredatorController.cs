@@ -93,7 +93,6 @@ public class PredatorController : MonoBehaviour
                 Bite();
                 return;
             }
-            Debug.Log($"fish={playerSpeed:F2} predator={predatorSpeed:F2} dist={distanceToPlayer:F2}");
         }
 
         PlaceBehindPlayer();

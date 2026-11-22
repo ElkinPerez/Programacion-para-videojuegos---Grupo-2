@@ -41,6 +41,7 @@ public class AudioManager : MonoBehaviour
 
     private void Start()
     {
+        VolumePrefs.ApplyAll(mixer);
         PlayMusic(backgroundMusic);
         PlayAmbient(ambientSound);
     }
